@@ -1,0 +1,2 @@
+0	file:/Applications/mallet-2.0.8RC3/catherine/dialogo/.DS_Store	0.25	0.125	0.125	0.25	0.25
+1	file:/Applications/mallet-2.0.8RC3/catherine/dialogo/dialogo.txt	0.18934631481254488	0.18024060097711314	0.20062339117796418	0.19866216050571733	0.2311275325266605

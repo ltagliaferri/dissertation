@@ -1,0 +1,2 @@
+0	file:/Applications/mallet-2.0.8RC3/catherine/petrarca/.DS_Store	0.125	0.125	0.125	0.25	0.375
+1	file:/Applications/mallet-2.0.8RC3/catherine/petrarca/rimesparse.txt	0.19699561240425373	0.19093478099204284	0.2213876701122927	0.20123447609132147	0.18944746040008925

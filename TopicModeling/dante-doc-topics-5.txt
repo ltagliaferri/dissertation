@@ -1,0 +1,2 @@
+0	file:/Applications/mallet-2.0.8RC3/catherine/dante/.DS_Store	0.25	0.25	0.125	0.25	0.125
+1	file:/Applications/mallet-2.0.8RC3/catherine/dante/commedia.txt	0.18685591253997785	0.2251928342983758	0.19803925667342545	0.19392127761867933	0.19599071886954159
