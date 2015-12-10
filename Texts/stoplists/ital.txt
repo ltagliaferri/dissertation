@@ -5,6 +5,7 @@ a'
 abbastanza
 accidenti
 acciò
+acciocchè
 ad
 adesso
 affinche
@@ -209,6 +210,7 @@ già
 giacche
 giorni
 giorno
+giù
 gli
 gliela
 gliele
@@ -276,6 +278,7 @@ mezzo
 mila
 miliardi
 milioni
+modo
 molt
 molta
 molto
@@ -323,6 +326,7 @@ ognuna
 ognuno
 oh
 oimè
+oimé
 oltre
 omai
 ond
@@ -352,6 +356,7 @@ perch
 perch'
 perche
 perché
+perchè
 perch'io
 percio
 perciò
@@ -365,6 +370,7 @@ piglia
 piu
 più
 piú
+piùe
 po
 pochissimo
 poca
@@ -423,7 +429,8 @@ riecco
 s'
 salvo
 sanza
-sara 
+sara
+sarà
 sarebbe
 scopo
 scorso
@@ -435,6 +442,7 @@ seguente
 sei
 sempre
 sen
+senz
 senza
 s'ha
 si
@@ -458,6 +466,7 @@ stata
 state
 stati
 stato
+stessa
 stesso
 su
 sù
