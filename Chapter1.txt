@@ -5,6 +5,14 @@ While Catherine certainly spent her early years as an ascetic, her transition to
 Catherine joined the Mantellate, a tertiary order of the Dominicans consisting of mostly widowed and married laywomen, when she was about 18 years old. The women at first did not want to accept her, as her status as a virgin was not typical of the order, but she was persistent and persuasive, as she would also prove to be in her subsequent political affairs. When Catherine first joined, she was still committed to prayer and solitude, but her work for the ill as a mantellata may have contributed in compelling her to leave her private space. The mantellate were dedicated to caring for the ill and doing good, and it was in hospitals that these group of women gathered, the center of which in Siena was the Spedale di Santa Maria della Scala, near the Duomo. As Jane Tylus notes, the hospital “...represented an intermediary space between public and private ... for the layperson dedicated to acts of mercy” (68). Because of Siena’s location on the Via Francigena, the ancient pilgrimage route to Rome, the mantellate cared not only for their geographical neighbors but also for many visitors. Thus, Catherine’s position as a lay Dominican proved to be beneficial though her initial desire to be in the mantellate may have seemed contradictory. With this status, she had access to larger circles of people through her affiliation with the Dominicans and was able to engage with people of the world by living outside of a monastery, not unlike her Italian predecessor, Francis of Assisi.
 In 1374, Catherine first travels to Florence, and she spends most of 1375 in Pisa, where she gained greater public status. While she had started constructing herself as a public figure in Siena, she generated excitement during her extended stay in Pisa and established herself as a public preacher and miracle worker (Capecelatro 107, Tylus 134). It is from Pisa that Catherine begins to engage in intense and frequent letter-writing, often addressing her spiritual and blood famiglia in Siena. In 1376 she travels to Avignon and is credited with the pope’s return to Rome in September of that year, proving herself as someone engaged in politics. Still, as a woman in the public sphere, she was accused of vainglory, which Raymond sought to defend throughout the last chapter of his Legenda. As one may expect, this is a gendered issue, as Raymond notes her critics claimed, “‘She’s a woman. Why doesn’t she stay in her cell, if it’s God she wants to serve?’” (IV, 365). Raymond writes that both men and women are accusatory, and he uses examples from her fellow mantellate, instead proving her sanctity by describing her steadfastness and commitment to the public work of God. In this manner, Raymond is quick to disband Catherine from the urban communities that she is actively involved with, asserting her as a solitary holy figure. 
 However, according to the anonymously authored Miracoli di Caterina di Iacopo da Siena, Catherine read aloud to her fellow Mantellate at supper time, which Tylus notes “situates Catherine in a world of women who, far from spreading snide words about her imagined sanctity, are listening to her read...” (127). Meanwhile, Raymond’s own Legenda major, Caffarini’s Leggenda minore and Processo Castellano, Stefano Maconi’s and the Pope’s letters — to name a few — are all indicative of Catherine’s participation not just in a female community but an active interlocutor of the male religious community as well. Her letters on practical matters (to a prostitute, different classes [...])[a], political leaders ( Queen of Naples, Queen of Hungary, King of France ) and concerning the justice system (T273) reveal her participation in wider civic society. Therefore, Catherine of Siena is not a mystic bound by her interiority and other-worldliness, but rather an active force in this world — her contemporary Italy — and a remarkable human who can operate outside and within societal constructs. 
+<<<<<<< HEAD
+=======
+
+
+
+
+In this chapter, I will explore the special situation of the mystic, Catherine’s own self-construction through her words and through her work, and how she was represented by others to lead to her canonization in 1461.
+>>>>>>> abad253a06aab6b40498d9938039846f82065e08
 
 
 The Figure of the Mystic
@@ -61,6 +69,7 @@ io mi vendicherei di più di mille. [29]
 The imagery of the bear is from an old proverb that states not to play with a bear if you do not want to be bitten, and here the speaker-lover expects a violent sex act on the part of both parties. The church bells show the passage of night, but are also interesting in their lending a sacred sense to the representation here, especially when considering that Dante will bring imagery from this poem into Paradiso XXVI (discussed below). 
         Before delving further into the courtly love poetry, let us consider the Beguine mystic writing that Barbara Newman describes as “la mystique courtoise.” She argues that Beguine mystical writers — Hadewijch, Mechthild, Marguerite Porete — experiment with polyvalent subjectivity, sometimes as the beloved bride of Christ the bridegroom and sometimes as the knight-errant longing for his/her faraway beloved. Hadewijch, for example, twins “I” and “she” in her lyric poetry, “indistinguishable from the troubadour’s,” and even pretends to abandon love and spurn her beloved, which “only initiates will recognize … as God” (148). Beguine mysticism adopted both the monastic allegorical tradition surrounding the Song of Songs as well as a courtly love tradition: “In combination, the two discourses may reinforce each other or they may work at cross-purposes, almost incidentally conferring dual gender on both the lover and the divine Beloved” (138). I would add that it is not just the mystics who are combining the two threads of Song of Songs subjectivity-shifting monasticism and courtly love, for how else can Dante bring erotic language into Paradiso?
         Even in the writing of the poet who is considered the most secular of the dolce stil novo group, Guido Cavalcanti, the use of donna (again, related to domine) is employed throughout as is a displacement of power from the masculine speaker and to the feminine beloved. As Dana Stewart explains, the donna is equipped with the Platonic model of active eyes, while the speaker has the Aristotelian model of passive eyes (49). The words for eyes (occhi) and other vision-based words including light (lume), are used throughout both love poetry and mystical writing, and Cavalcanti, who writes in a very philosophical manner, uses these terms as they relate to the science of optics as he was aware of it in his time. In discussing Cavalcanti within the theoretical cinematic model of the male gaze, Stewart writes, “The poet-lover exerts no controlling gaze over her [his beloved], and when he does speak of his perceptual appropriation of her, he emphasizes that his mind cannot fully grasp her image” (53). This language is also consistent with religious language about God and self-knowledge, and Dante’s words as he progresses through Paradise, which begins in Canto I (“Nel ciel che più de la sua luce prende / fu’ io, e vidi cose che ridire / né sa né può chi di là sù discende (4-6)) and culminates in Canto XXXIII: “per tal modo / che ciò ch’i’ dico è un semplice lume,” “credo ch’i’ vidi,” “Omai sarà più corta mia favella, / pur a quel ch’io ricordo, che d’un fante / che bagni ancor la lingua a la mammella” (89-90, 92, 106-108). Also, Cavalcanti’s beloved is not depicted as cruel, stingy with her love, or in any way punished for her power over him, and instead he is a willing servant to her and happy to suffer for his love, which resembles the mystic’s relation to God. 
+<<<<<<< HEAD
         Love poetry is often thought of as being an exchange between two individuals, or even just the solitary writing of one party to another disinterested one (as the act of writing itself is often conflated with working alone), however courtly love poetry is inherently part of a larger community: the court. As Newman explains, the amorous couple are never truly alone and are alway enveloped by friends, foes, or jealous members of the court. She writes (142),
 A fulfilled relationship could overcome the solipsism of immature lovers and blossom into what Chrétien de Troyes called the Joy of the Court. In his Erec et Énide, high festival is held when mature lovers also achieve the integration of private desire with social responsibility. 
 That is, there is an assimilation between the private and public within courtly love, which is also a topos for the mystic, as Newman continues to explain when discussing the Beguine mystic in particular. The mystic is surrounded by spiritual friends and is often in the position of sharing her bridegroom of Christ with them. In states of ecstasy, the mystic is often with others and dictating her experience to scribes, thus making a very private and erotic affair an aspect of the wider spiritual community of which she is part. While some cloistered or otherwise reclusive mystics, like Hildegard, will be members of a much smaller community (though certainly still a community nonetheless), mystics like Catherine[s] who are part of society will invariably have social responsibility as a larger aspect of their mysticism and love with Christ. Therefore, in a figure like Catherine, the topos of community within courtly love is particularly strong and she must not consider just herself and her lover alone, but all the societal implications that will be an inherent aspect of her mystical experiences and writing.
@@ -82,29 +91,58 @@ Throughout the Commedia, Dante employs palinode as a means to distance himself f
 Io mio penser di fuor sì che si scopra,
 ch’io non fo de la morte, che ogni sense
 co li denti d’Amor già mi manduca[35]
+=======
+
+
+courtly love as a community topos
+courtly love as exchange of hearts (literally for Catherine)
+courtly love as man giving jewels to his lady
+
+
+
+
+Throughout the Commedia, Dante employs palinode as a means to distance himself from earlier writing that was not as spiritually informed as his opus would prove to be. An example of this is in Canto II of Inferno, where Francesca and Paolo are damned for their amorous love that arose from reading about courtly love. Sara Sturm-Maddox also discusses the connection between the Rime petrose and Purgatorio, particularly with the figure of the Medusa, and how Dante must rid himself of this former life in order to pass into the Earthly Paradise.[30] However, Dante does not purge himself of courtly or erotic language altogether, and even uses the unique imagery of love’s teeth biting him in both his Rime petrose and in Canto XXVI of Paradiso:
+Io mio penser di fuor sì che si scopra,
+ch’io non fo de la morte, che ogni sense
+co li denti d’Amor già mi manduca[31]
+>>>>>>> abad253a06aab6b40498d9938039846f82065e08
 
 
 Ma dì ancor se tu senti altre corde
 tirarti verso lui, sì che tu suone
+<<<<<<< HEAD
 con quanti denti questio amor ti morde[36]
+=======
+con quanti denti questio amor ti morde[32]
+>>>>>>> abad253a06aab6b40498d9938039846f82065e08
 Although this is not a direct citation, the image of love’s teeth biting him cannot be a coincidence, and the repetition of sense and thought in the surrounding context here further suggests a connection. Dante, then, does not see courtly and erotic love as outside of a divine context and, given that Dante is approved by the blessed in this Canto, he must not believe that there is an incongruity between amorous love and love for God. This incomplete departure is indicative of a rhetoric of courtly love that is consistent with compatible with a mystical discourse.
 Arguing in her essay, “The Sexual Body in Dante’s Celestial Paradise,” that Dante co-opts courtly and erotic language throughout Paradiso, F. Regina Psaki emphasizes that in Paradise the soul is not actually without body, as after the Revelation souls will be joined with their bodies once again. She instead views erotic, embodied love as a site of redemption and not a heretical take on theology. Noting the innovative language of Dante, including neologism, she writes, “The colonization of the language of courtship, caress, intercourse, and orgasm as components of divine bliss would have struck a contemporary reader not because it was unprecedented, but precisely because it is not deployed in familiar fashion as simply a figure for the love which joins risen mankind and God” (57). Though I do not at all hope to diminish Dante’s ingenious and masterful use of language ripe with poetic force and meaning, I would like to suggest that his words that relate to corporeal and erotic romance, intercourse and orgasm were already a part of mystical writing, not just in the writing of the Beguine mystics, but also in Italian (Clare of Assisi and Angela of Foligno predate the writing of the Commedia), and would continue to persist after his writing. While we cannot be sure that Dante was reading mystical writing, it is unlikely that his contemporary reader would be as struck by the conflation of eroticism and redemption as a reader of the 21st century may well be, as spirituality has somehow been untied from the passionate love so embedded in late medieval writing. I would only like to suggest that the language of the mystic would have been circulating in the broader Italian culture and that the very erotic nature of texts that treat the divine, such as Dante’s courtly love epic, would likely be in dialogue with these texts, or at least benefit in theological terms due to the existence of these texts which so expertly wove erotic love with spiritual love. 
 
 
+<<<<<<< HEAD
 ________________
 
 
 
 
 Catherine’s Dialogo:
+=======
+Catherine’s Dialogo:
+http://voyant-tools.org/?corpus=1449618816037.8625&stopList=1449619449982uc
+>>>>>>> abad253a06aab6b40498d9938039846f82065e08
 http://bit.ly/Voyant-Dialogo 
 
 
 Petrarca Rime Sparse:
+<<<<<<< HEAD
+=======
+http://voyant-tools.org/?corpus=1449619614158.7767&stopList=1449620739113vk 
+>>>>>>> abad253a06aab6b40498d9938039846f82065e08
 http://bit.ly/Voyant-RimeSparse 
 
 
 Dante Commedia: 
+<<<<<<< HEAD
 http://bit.ly/Voyant-DivinaCommedia 
 
 
@@ -116,15 +154,37 @@ Dante Paradiso alone:
 http://bit.ly/Voyant-Paradiso 
 
 
+=======
+http://voyant-tools.org/?corpus=1449629268997.9198&stopList=1449631974267bs
+http://bit.ly/Voyant-Commedia 
+
+
+Dante Commedia, with Amore changed to Amor (consistent word for Love):
+http://voyant-tools.org/?corpus=1449632127503.9681&stopList=1449632342885ur 
+http://bit.ly/Voyant-DivinaCommedia 
+
+
+Dante Paradiso alone:
+http://voyant-tools.org/?corpus=1449633205694.6156&stopList=1449633398156rm 
+http://bit.ly/Voyant-Paradiso 
+
+
+Three texts:
+http://voyant-tools.org/?corpus=1449632510800.6163&stopList=1449632733015bk 
+http://bit.ly/Voyant-CatDanPet 
+>>>>>>> abad253a06aab6b40498d9938039846f82065e08
 
 
 
 
 
 
+<<<<<<< HEAD
 ________________
 
 
+=======
+>>>>>>> abad253a06aab6b40498d9938039846f82065e08
 
 
 Italian, challenges w topic modeling, bc flexibility of language, conjugations. Changed ‘nferno → inferno, for example. V’amai and ideas of amore count separately, as does ama, but still revealing in certain ways 
@@ -202,7 +262,11 @@ Quotes from Kristeva’s Teresa My Love:
 Teresa of Avila, Meditations on the Song of Songs” - p. 203
 
 
+<<<<<<< HEAD
 “Hail Teresa, borderless[t] woman, physical hysterical erotic epileptic, made word, made flesh, who unravels inside and outside herself, tides of images without pictures, tumults of words, cascades of fluorescence, a thousand tongues listening out for who for what, listening to time etched in stone, eardrum larynx cry out, night and brightness, too much body yet disembodied, beyond matter, empty gaping matrix throbbing for the Beloved ever-present and yet never there, but there’s presence and presence, His in her, hers in Him, sensed felt buried, sensation without perception, dart or glass, pierced or transparent, that is the question, transverberated instead, and again inundated, La Madre being the most virile of monks, most canny of the herders of souls, a veritable twin of Christ, she is He, He is she, the Truth is me, or Him in the deepest part of me, me Teresa, a successful paranoiac, God is myself and what of it, what’s the matter? A free-for-all, who can beat that? Certainly not Schreber, not even Freud, awfully serious chap from Vienna, gloomy rather, a woman finds it easier to talk about these things, what things, well, her of course, her beside herself, obviously, in the throes of dread and delight, little butterfly expiring with indelible joy because Jesus has become it or rather her, butterfly-Jesus, woman-Jesus, I know someone who though she’s not a poet composes poems without trying, novels that are poems with an extra something, extra movements, I wonder whether it is really I, Teresa, speaking, the path that is pain, the Nothingness of everything, that everything which is nothing, do what is in you to do, but gaily, be cheerful, my daughters, for twenty years I vomited every morning, now it’s in the evenings and it’s harder to bring up, I have to provoke it with a feather or some such thing, like a baby a baby girl if you prefer latched on to the Other’s teat, mystic or is it spiritual marriage, young John of the Cross says there’s a difference, I don’t really see it, more like two sides of a coin, or like the Song of Songs, as always as ever she sings off-key but she writes true and carries on founding her convents, her girls, her Church, her own gestation, her game, a game of chess, games are allowed, oh yes, even in a cloister, especially in a cloister, God loves us to be playful, believe me, girls, Jesus loved women, what are the Doctors so scared of in us, yes, checkmate to God too, oh yes, Teresa or Molly Bloom, I am numb at last, I flow into the water of the garden, flow on by, all we do is feel pleasure, souls that love can see all the way into atoms, that’s right, for yes is all there is to souls like mine, mine sees as far as the infinite atoms that are atoms of love, the philosophers don’t have a clue, they become scholars, they recoil from your sensations, the best of them are mathematicians, tamers of infinity, and yet it’s as simple as that, oh yes, metaphors mutating into metamorphoses, or possibly the other way around, oh yes, Teresa, my sister, invisible, ecstatic, eccentric, beside yourself in you, beside myself in me, yes, Teresa, my love, yes.” - p. 26-27
+=======
+“Hail Teresa, borderless[s] woman, physical hysterical erotic epileptic, made word, made flesh, who unravels inside and outside herself, tides of images without pictures, tumults of words, cascades of fluorescence, a thousand tongues listening out for who for what, listening to time etched in stone, eardrum larynx cry out, night and brightness, too much body yet disembodied, beyond matter, empty gaping matrix throbbing for the Beloved ever-present and yet never there, but there’s presence and presence, His in her, hers in Him, sensed felt buried, sensation without perception, dart or glass, pierced or transparent, that is the question, transverberated instead, and again inundated, La Madre being the most virile of monks, most canny of the herders of souls, a veritable twin of Christ, she is He, He is she, the Truth is me, or Him in the deepest part of me, me Teresa, a successful paranoiac, God is myself and what of it, what’s the matter? A free-for-all, who can beat that? Certainly not Schreber, not even Freud, awfully serious chap from Vienna, gloomy rather, a woman finds it easier to talk about these things, what things, well, her of course, her beside herself, obviously, in the throes of dread and delight, little butterfly expiring with indelible joy because Jesus has become it or rather her, butterfly-Jesus, woman-Jesus, I know someone who though she’s not a poet composes poems without trying, novels that are poems with an extra something, extra movements, I wonder whether it is really I, Teresa, speaking, the path that is pain, the Nothingness of everything, that everything which is nothing, do what is in you to do, but gaily, be cheerful, my daughters, for twenty years I vomited every morning, now it’s in the evenings and it’s harder to bring up, I have to provoke it with a feather or some such thing, like a baby a baby girl if you prefer latched on to the Other’s teat, mystic or is it spiritual marriage, young John of the Cross says there’s a difference, I don’t really see it, more like two sides of a coin, or like the Song of Songs, as always as ever she sings off-key but she writes true and carries on founding her convents, her girls, her Church, her own gestation, her game, a game of chess, games are allowed, oh yes, even in a cloister, especially in a cloister, God loves us to be playful, believe me, girls, Jesus loved women, what are the Doctors so scared of in us, yes, checkmate to God too, oh yes, Teresa or Molly Bloom, I am numb at last, I flow into the water of the garden, flow on by, all we do is feel pleasure, souls that love can see all the way into atoms, that’s right, for yes is all there is to souls like mine, mine sees as far as the infinite atoms that are atoms of love, the philosophers don’t have a clue, they become scholars, they recoil from your sensations, the best of them are mathematicians, tamers of infinity, and yet it’s as simple as that, oh yes, metaphors mutating into metamorphoses, or possibly the other way around, oh yes, Teresa, my sister, invisible, ecstatic, eccentric, beside yourself in you, beside myself in me, yes, Teresa, my love, yes.” - p. 26-27
+>>>>>>> abad253a06aab6b40498d9938039846f82065e08
 
 
 “The eroticization of this ordeal makes manifest the torments of the desiring body within the family triangle: incest with both parents, and more specifically with the Father, is not just an unconscious desire, for it turns into a preconscious one. With girls, the father-daughter encounter, unconsciously courted and sublimated in passionate nuptials with Christ’s “sacred humanity,” goes to stimulate the cultural and social energy of the Christian woman. With boys, the fantasy of a homosexual encounter with the father, equally unconsciously courted, ends up favoring social attachments based on warrior and political fraternities, with the risk of drifting into multiple forms of deviance and permissiveness.” - p. 405
@@ -226,7 +290,11 @@ Topic modeling of Petrarch, Dante’s (others?) love poetry, compare with Cather
 People that want to get highest should renounce the wisdom of the world & also knowledge of letters, to be dispossessed of such inheritance & go naked to the Lord -- vernacular writing
 
 
+<<<<<<< HEAD
  BUT IS THE MYSTIC REALLY GENDERED!!! Can the male mystic be said to be this inside/outside ambiguity or not? Queer[u]
+=======
+ BUT IS THE MYSTIC REALLY GENDERED!!! Can the male mystic be said to be this inside/outside ambiguity or not? Queer[t]
+>>>>>>> abad253a06aab6b40498d9938039846f82065e08
 Conversion → trans → bodily conversion
 This worldly: the third order → remain in the world but access to transcendence (previously, better to be a hermit as you were somehow more successful in that you only needed God)
 Suffering → joy
@@ -290,6 +358,7 @@ ________________
 [12] For a discussion on this, as well as some analysis on the gendering of tears, see Brian Patrick McGuire’s “Monks and Tears:A Twelfth-Century Change” in The Difficult Saint: Bernard of Clairvaux and his Tradition, 1991.
 [13] “Du bist drivaltig an dir, du maht wol gottes bilde sin: Du bist ein menlich man an dinem strite, du bist ein wolgerzieret juncfrowe in dem palast vor dinem herren, du bist ein lustlichú brut in dinem minnebette gottes!” Das fliessende Licht II.19.
 [14] See, for example, Charles Darwent’s “Arrows of desire: How did St Sebastian become an enduring, homo-erotic icon?” in the Independent. http://www.independent.co.uk/arts-entertainment/art/features/arrows-of-desire-how-did-st-sebastian-become-an-enduring-homo-erotic-icon-779388.html 
+<<<<<<< HEAD
 [15] As in Chaucer’s Reeve’s Tale and Nun’s Priest’s Tale. For a discussion of this trope in art history, see Malcolm[v] Jones’s “Sex and Sexuality in Late Medieval and Early Modern Art,” p. 187-304 in Erlach 1994. 
 [16] Angela of Foligno also famously removes her clothes in church.
 [17] Holy Feast, Holy Fast and Holy Anorexia.
@@ -298,6 +367,16 @@ ________________
 [20] Mystics who wrote on marriage between the soul and Christ include Bonaventure, David of Augsburg, Gilbert of Hoyland, John of Fécamp, Richard of St. Victor, William of St. Thierry (see McGinn’s four volumes on Mysticism for more).
 [21] Translation from The Foundations of Mysticism by Bernard McGinn, p. 125.
 [22] “Sólo Vos en mí viví” (Teresa[w]
+=======
+[15] As in Chaucer’s Reeve’s Tale and Nun’s Priest’s Tale. For a discussion of this trope in art history, see Malcolm[u] Jones’s “Sex and Sexuality in Late Medieval and Early Modern Art,” p. 187-304 in Erlach 1994. 
+[16] Angela of Foligno also famously removes her clothes in church.
+[17] Holy Feast, Holy Fast and Holy Anorexia.
+[18] Letter 221[w][x].
+[19] Letter T273.
+[20] Mystics who wrote on marriage between the soul and Christ include Bonaventure, David of Augsburg, Gilbert of Hoyland, John of Fécamp, Richard of St. Victor, William of St. Thierry (see McGinn’s four volumes on Mysticism for more).
+[21] Translation from The Foundations of Mysticism by Bernard McGinn, p. 125.
+[22] “Sólo Vos en mí viví” (Teresa[v]
+>>>>>>> abad253a06aab6b40498d9938039846f82065e08
 [23] Translation from Visions and Longings: Medieval Women Mystics by Monica Furlong, p. 109.
 [24] Today, Francis’s eating habits would be considered raw-food vegan, though this was probably more of an expression of abstention and bodily denial than an interest in non-human animal welfare. 
 [25] For more on this text, see Alison Knowles Frazier’s Possible Lives. 
@@ -307,6 +386,7 @@ ________________
 
 [28] Brunetto Latini, Dante’s famous damned teacher, argues that Cicero’s teachings on speeches also apply to letters, suggesting to me that the oral production of writing is rhetorically sound. Latini’s French Tresor reinforces his notion that speaking is equivalent to letters:” Or dit li mastres que la escience de retorique est en .ii. mainieres, une qui est en dissant de boche & une autre que l’en mande par letres; mais li ensegnement sont comun, car il ne puet chaloir que l’en die ou en conte ou que l’en mande par letres…” (296). For a full discussion of the Ars dictaminis and Brunetto Latini, see Witt’s Brunetto Latini and the Italian Tradition of Ars Dictaminis.
 [29] “Oh, if I could but seize those lovely tresses which have become both whip and lash for me, / from very early matins / I’d make them ringing bells unto the night: / and I would not be pitying or kind, / but like a playful bear with her I’d play; / and, since Love whips me still, / I would avenge myself a thousandfold” (tr. Tusiani, p. 99). 
+<<<<<<< HEAD
 [30] Here Newman cites the Règle des Fins Amans: “The fin amant is exhorted to think of her lover often, to seek out his favorite haunts, and to receive the jewels he sends her gladly, although these consist of ‘poverty, diseases, maladies, and tribulations” (141).
 [31] See “Catherine of Siena’s Heart,” pp. 815-816.
 [32] “...oh mad lover! And you have need of your creature? It seems so to me, for you act as if you could not live without her, in spite of the fact that you are Life itself, and everything has life from you and nothing can have life without you. Why then are you so mad? Because you have fallen in love with what you have made! You are pleased and delighted over her within yourself, as if you were drunk [with desire] for her salvation. She runs away from you and you go looking for her. She strays and you draw closer to her. You clothed yourself in our humanity, and nearer than that you could not have come” (trans. Noffke).
@@ -314,6 +394,11 @@ ________________
 [34] See “The Rime Petrose and the Purgatorial Palinode,” 1987.
 [35] “Così nel mio parlar voglio esser aspro,” lines 30-32.
 [36] Paradiso XXVI 49-51.
+=======
+[30] See “The Rime Petrose and the Purgatorial Palinode,” 1987.
+[31] “Così nel mio parlar voglio esser aspro,” lines 30-32.
+[32] Paradiso XXVI 49-51.
+>>>>>>> abad253a06aab6b40498d9938039846f82065e08
 [a]Add meat & citations
 [b]August 22, 1938. James Strachey's Standard Edition vol 23 in the "Findings, Ideas, Problems" section -- this sentence was written alone
 [c]yearning for
@@ -335,6 +420,7 @@ http://www.themiddleages.net/people/dante_paper.html
 [p]Give some context for this once you have the source
 [q]verify
 [r]Find Noffke's letter number
+<<<<<<< HEAD
 [s]add the letter on Niccolo
 [t]In conversation w Santa Muerte
 [u]http://www.earlham.edu/history/earlham-historical-journal/
@@ -343,3 +429,12 @@ http://www.earlham.edu/media/1683292/to-queer-or-not-to-queer.pdf
 [w]Page number?
 [x]Find the T Letter citation
 [y]May find it in Holy Feast, Holy Fast
+=======
+[s]In conversation w Santa Muerte
+[t]http://www.earlham.edu/history/earlham-historical-journal/
+http://www.earlham.edu/media/1683292/to-queer-or-not-to-queer.pdf
+[u]https://books.google.com/books?id=OzzjBAAAQBAJ&pg=PA176&lpg=PA176&dq=malcolm+jones+sex+sexuality+medieval+early+modern&source=bl&ots=NtT3uCQfAO&sig=ZmgpHt0jb7X2EoTObL3xOsU3MB0&hl=en&sa=X&ved=0CCEQ6AEwAWoVChMIvLaJrNCCyQIVhOQmCh3URwEW#v=onepage&q=malcolm%20jones%20sex%20sexuality%20medieval%20early%20modern&f=false
+[v]Page number?
+[w]Find the T Letter citation
+[x]May find it in Holy Feast, Holy Fast
+>>>>>>> abad253a06aab6b40498d9938039846f82065e08
