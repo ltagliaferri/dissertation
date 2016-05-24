@@ -1,5 +1,46 @@
 ﻿2. Italian manuscript and publishing through 15th century
-        
+        One collection in two volumes of the Caffarini Group of Manuscripts — T.II.2 and T.II.3 of Siena’s Biblioteca comunale degli Intronati — was originally comprised of 294 letters from the early 15th century. The first volume is no longer extant, as pages sent to Rome in 1658 were never returned. Today the collection totals 220 letters, with 81 letters in the first volume and 139 letters in the second volume. The gothic script is well executed, “evidently executed by a professional scribe” who was probably not Italian.[1] Caffarini’s scriptorium in Venice, which he tasked with propagating Catherine’s texts, was the source of this collection. The first volume only contains letters written to ecclesiastics and religious, while the second volume contains letters to the laity, including to the third orders. What is most striking about this edition of letters is the degree to which is was illustrated, with 19 page-width drawings in total — nine illustrations in the first volume, and ten in the second. It is believed that these two manuscripts were under the direct control of Caffarini, who left marginal notations throughout the texts (Noffke “The Writings of Catherine of Siena” 317-319).
+        Today’s critical edition of the letters completed by Suzanne Noffke is grouped in chronological order, as much as Noffke was able to do so, which she arranged based on her archival research and through linguistic analysis across the corpus. The manuscript tradition, however, is arranged in an extremely hierarchical manner, with the first volume of letters written to those with religious affiliation starting with a group addressed to Popes Gregory XI and Urban VI and continuing down to Raymond of Capua, a brother. The second volume begins a group addressed to kings, counts, and other sovereigns, then to lords, continuing down to the third order and confraternities, and finally to the most ordinary of laity. This second volume moves through two iterations of this hierarchy, beginning with one reserved for men that moves from the first letter addressed to the King of France and ends with the 96th letter to the consiglio Guideo Laudato. The 97th letter begins the second iteration that is reserved for women, beginning with one of several letters written to the Queen of Naples, and ending with the 139th and last letter of the volume written to her niece Nanna. The subgroups are each preceded with one of the evocative full-page illustrations that depict Catherine and the letter addressees, and each have headings that guide the reader through the subgroups, as shown in the table below.
+T.II.2
+Subgroup
+	Letters
+	Page
+	A papà Gregorio undecimo e a papà Urbano Sexto
+	1-20
+	1r
+	A diversi cardinali
+	21-27
+	25v
+	A diversi plati[a] & la chiesa di dio
+	28-29
+	35v
+	A diversi sacerdoti secolari
+	36-39
+	50r
+	Ai monasti neri del monsterio dela terbana presso a Genova
+	40-41
+	54r
+	A diversi monasti del ordine di Cartosa
+	42-51
+	57r
+	A diversi monati grigi del ordine di san leonardo e del ordine di valle onbrosa
+	52-59
+	77r
+	A divirsi monati branthi dell ordine di monte oliveto
+	60-71
+	86v
+	A diversi religiosi delordme de frati predicatori[2]
+	73-80[3]
+	105r
+	
+
+        This hierarchical arrangement “is typical of those collections which can be traced through the Caffarini tradition” (Noffke “The Writings of Catherine of Siena” 319). 
+The rubric for the interpretation of the virgin (why is she always referred to as virgin)
+How the virgin intersects with these hierarchies
+Hierarchies are to be expected in medieval / early modern books but the virgin intersects with these hierarchies, outside and among
+13” x 7”
+Illustrations, what do they mean
+Catherine at the center always
 3. English manuscripts, publishing and readership network
         Cristofano’s translation of Catherine’s Dialogo allowed for the circulation of the text throughout greater Europe, and is the basis for which the initial English translation of Catherine’s book was based on (Schultze 189). Eventually becoming known as the Orchard of Syon, the text may have been made available as early as 1420, which is also the year that first professions were made at Syon Abbey, five years after the placement of the foundation stone laid by Henry V on February 22, 1415 (Hodgson vii). The desire for a Bridgettine order in England likely began with the marriage between the daughter of King Henry IV, Phillipa, and the King of Sweden, Eric XIII of Pomerania. During her time in Sweden, Phillipa’s head lady-in-waiting was the noblewoman Lady Katarina Knutsdotter who was also granddaughter of Bridget of Sweden, and Phillipa served as a benefactor of and frequent guest to Vadstena Abbey, founded by Bridget in 1346 (Flemberg 181-92). The Syon Abbey was a project that was as component of Henry V’s effort to legitimize his dynasty, and proved to become the most important house for female religious established in England in the century prior to the Reformation. Being the only house in England of the Bridgettines or the Order of St Saviour, which was founded by Bridget of Sweden, it was indicative of the ongoing movement of the time that spoke to renewal and reform in spirituality. It enjoyed great funding by Henry V, took a stand against Henry VIII’s project of the Reformation, and helped to develop Catholic recusant identity (Bainbridge 82). The role of Bridget of Sweden to the community should not be overlooked, as she was not a conventional saint, especially for contemporary English devotion at the time which was concerned with Lollardy. 
         Notably serving as a model for the English religious figure Margery Kempe, the noble-born Bridget was not a virgin but instead was a married woman who bore eight children and was widowed following a pilgrimage she took with her husband to Santiago de Compostela. Upon the death of her husband, Bridget joined the Third Order of St. Francis and devoted herself to a life of prayer, caring for the poor and the sick, and developing her community of double monasteries where men and women could live in poverty but still have access to books. In addition to her interest in texts and literacy, community-building, and her status as a tertiary nun, Bridget shared political aspirations with Catherine of Siena, traveling to Rome and working to return the papal seat there from Avignon. Along with being a biological mother, Bridget’s spirituality clashed with English religiosity due to her status as a mystic and a non-martyr, important because martyrdom served as the chief criterion for English sanctity from the early Middle Ages through the Reformation (Despres). English devotional practices, especially for women, were very restricted and continental figures that managed to develop a career of public spiritual advocacy and mystical practices would not prove to be suitable models. Though Margery Kempe suffered for her public displays of piety, Julian of Norwich’s position as an anchoress allowed her freedom to express her mystical experiences in texts. While 15th-century England does not immediately seem like a fitting environment for a figure like Catherine, not yet canonized, the local situation in the Bridgettine Syon Abbey seems like a more apt context for women to read an English translation of the Dialogo. 
@@ -15,3 +56,8 @@ http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMINBig.ASP?size=big&IllID
 
 
         The Cambridge, St John’s College MS C.25 is in a much different style to the Harley MS, with plainer decoration and the vellum is smaller in size. Initials have some decoration in red and blue ink and include gold leaf, though initials were cut out in two instances, and the first three pages of the manuscript are no longer extant. There is some sketched floral decoration in black ink in the margins, as well as banner illustrations to show continuing text for when sewing the pages together. There is some marginalia that highlights text with lines and curves, including playful marginalia that turns the curves into a face on 54r. Perhaps most interesting is the inclusion of light textual marginalia written in Italian on 20r, remarking on the confessore suo, the only instance of Italian intertextuality in the English Orchard of Syon manuscripts. The ink of this text is very faint, and it appears that it could be in the original scribal hand, though this cannot be certain and may instead point to a contemporary reader. In either case, this marginalia indicates that there is some readership aware of the original Italian version of this text, despite the Orchard’s provenance as a twice-removed translation of the Latin version.
+________________
+[1] Noffke’s assessment of the scribe’s origin is based on the frequent use of the Tironian sign for et (317). 
+[2] In the extant version, all the letters in this grouping are to Raymond of Capua alone.
+[3] The group is likely larger but no longer extant
+[a]?
