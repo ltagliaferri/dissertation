@@ -1,12 +1,16 @@
-﻿2. Italian manuscript and publishing through 15th century
-        One collection in two volumes of the Caffarini Group of Manuscripts — T.II.2 and T.II.3 of Siena’s Biblioteca comunale degli Intronati — was originally comprised of 294 letters from the early 15th century. The first volume is no longer extant, as pages sent to Rome in 1658 were never returned. Today the collection totals 220 letters, with 81 letters in the first volume and 139 letters in the second volume. The gothic script is well executed, “evidently executed by a professional scribe” who was probably not Italian.[1] Caffarini’s scriptorium in Venice, which he tasked with propagating Catherine’s texts, was the source of this collection. The first volume only contains letters written to ecclesiastics and religious, while the second volume contains letters to the laity, including to the third orders. What is most striking about this edition of letters is the degree to which is was illustrated, with 19 page-width drawings in total — nine illustrations in the first volume, and ten in the second. It is believed that these two manuscripts were under the direct control of Caffarini, who left marginal notations throughout the texts (Noffke “The Writings of Catherine of Siena” 317-319).
-        Today’s critical edition of the letters completed by Suzanne Noffke is grouped in chronological order, as much as Noffke was able to do so, which she arranged based on her archival research and through linguistic analysis across the corpus. The manuscript tradition, however, is arranged in an extremely hierarchical manner, with the first volume of letters written to those with religious affiliation starting with a group addressed to Popes Gregory XI and Urban VI and continuing down to Raymond of Capua, a brother. The second volume begins a group addressed to kings, counts, and other sovereigns, then to lords, continuing down to the third order and confraternities, and finally to the most ordinary of laity. This second volume moves through two iterations of this hierarchy, beginning with one reserved for men that moves from the first letter addressed to the King of France and ends with the 96th letter to the consiglio Guideo Laudato. The 97th letter begins the second iteration that is reserved for women, beginning with one of several letters written to the Queen of Naples, and ending with the 139th and last letter of the volume written to her niece Nanna. The subgroups are each preceded with one of the evocative full-page illustrations that depict Catherine and the letter addressees, and each have headings that guide the reader through the subgroups, as shown in the table below.
+﻿Tagliaferri 
+Italian Manuscript Tradition
+The Caffarini Group
+The Caffarini Group of manuscripts, all collections of Catherine’s letters, consists of five in total: T.II.2, T.II.3, and T.II.10 in the Biblioteca comunale degli Intronati in Siena (all 15th century); Palatino 56 in the Biblioteca Nazionale Centrale in Florence (dated to the 1460s); and il. 1002 at the Bibliothèque Nationale de France in Paris (dated to the 17th or 18th century, a copy of Palatino 56).[1]
+Two manuscripts in particular (T.II.2 and T.II.3) are the most important of the group, and are in fact two volumes of a larger collection which was originally comprised of 294 letters from the early 15th century. The first volume is no longer extant, as pages sent to Rome in 1658 have not yet been returned. Today in Siena the collection totals 219 letters, with 80 letters in the first volume and 139 letters in the second volume.[2] The gothic script is done well, “evidently executed by a professional scribe” who was probably not Italian.[3] Caffarini’s scriptorium in Venice, which he tasked with propagating Catherine’s texts, was the source of this collection. The first volume only contains letters written to ecclesiastics and religious, while the second volume contains letters to the laity, including to the third orders. What is most striking about this edition of letters is the degree to which is was illustrated, with 19 full-width drawings in total — nine (extant) illustrations in the first volume, and ten in the second. It is believed that these two manuscripts were under the direct control of Caffarini, who left marginal notations throughout the texts (Noffke “The Writings of Catherine of Siena” 317-319).
+        These two volumes are in a large format at 330 x 178 mm and written in two columns, with decorated capitals in red and blue throughout, a highly ornate first capital, and a red rubric separating each letter. With a professional scribe, a very orderly and clean aesthetic, impressive illustrations, and large size, “the volumes of letters are in format and script clearly library desk books,” and the breadth of the letters forecasted Aldus Manutius’s 1500 printed edition of Catherine’s letters (which predate his editions of Dante and Petrarch) (Luongo “Saintly Authorship in the Italian Renaissance” 153). As Jeffrey F. Hamburger and Gabriela Signori argue, while Caffarini was not alone in promoting Catherine’s canonization, he took a “multimedia” approach, “in which copies and translations of texts play as important a role as images and relics,” and I would add that he ties these together through binding image and text together in books (3). Indeed, Caffarini commissioned Sienese artist Andrea di Bartolo to paint an altarpiece for a Catherinian shrine in the reformed Dominican nunnery of Corpus Domini in Veneto, and the likeness of this painting is repeated in some of the volumes whose production he oversaw (Luongo “Saintly Authorship in the Italian Renaissance 148). The very structured aesthetics of the books are echoed by the very structured organizing structure of the books.
+        Today’s critical edition of the letters completed by Suzanne Noffke is grouped in chronological order, as much as Noffke was able to do so, which she arranged based on her archival research and through linguistic analysis across the corpus. The Caffarini Group of manuscripts, however, is arranged in an extremely hierarchical manner, with the first volume of letters written to those with religious affiliation starting with a group addressed to Popes Gregory XI and Urban VI and continuing down to confessors. The second volume begins with a group addressed to kings, counts, and other sovereigns, then to lords, continuing down to the third order and confraternities, and finally to the most ordinary of laity. This second volume moves through two iterations of this hierarchy, beginning with one reserved for men that begins with the first letter addressed to the King of France and ends with the 96th letter to the consiglio Guideo Laudato. The 97th letter begins the second iteration that is reserved for women, beginning with one of several letters written to the Queen of Naples, and ending with the 139th and last letter of the volume written to her niece Nanna. The subgroups are each preceded with one of the evocative full-width illustrations that depict Catherine and the letter addressees, and each have headings that guide the reader through the subgroups, as shown in the tables below.
 T.II.2
 Subgroup
 	Letters
 	Page
 	A papà Gregorio undecimo e a papà Urbano Sexto
-	1-20
+	1-20[4]
 	1r
 	A diversi cardinali
 	21-27
@@ -17,30 +21,71 @@ Subgroup
 	A diversi sacerdoti secolari
 	36-39
 	50r
-	Ai monasti neri del monsterio dela terbana presso a Genova
+	Ai monasti neri del monasterio della terbana presso a Genova
 	40-41
 	54r
-	A diversi monasti del ordine di Cartosa
+	A diversi monasti dell’ordine di Cartosa
 	42-51
 	57r
-	A diversi monati grigi del ordine di san leonardo e del ordine di valle onbrosa
+	A diversi monati grigi dell’ordine di san leonardo e dell’ordine di valle ombrosa
 	52-59
 	77r
-	A divirsi monati branthi dell ordine di monte oliveto
+	A diversi monasti branthi dell’ordine di monte oliveto
 	60-71
 	86v
-	A diversi religiosi delordme de frati predicatori[2]
-	73-80[3]
+	A diversi religiosi dell’ordine dei frati predicatori[5]
+	73-80[6]
 	105r
 	
 
-        This hierarchical arrangement “is typical of those collections which can be traced through the Caffarini tradition” (Noffke “The Writings of Catherine of Siena” 319). 
-The rubric for the interpretation of the virgin (why is she always referred to as virgin)
-How the virgin intersects with these hierarchies
-Hierarchies are to be expected in medieval / early modern books but the virgin intersects with these hierarchies, outside and among
-13” x 7”
-Illustrations, what do they mean
-Catherine at the center always
+T.II.3
+Subgroup
+	Letters
+	Page
+	A diversi re e a marchesi e a conti
+	1-10
+	1r
+	A diverse signorie [sic] e signori di comunità e di città
+	11-21
+	19r
+	A diversi datori[7] gentili e nobili uomini e cavalieri secolari
+	22-31
+	35v
+	A diversi gentili e nobili uomini e cavalieri secolari
+	32-46
+	52v
+	A diversi uomini spirituali nobili e popolari / donesto hi’to e stato secolare
+	47-69
+	70r
+	A diversi uomini mercanti e artisti secolari
+	70-96
+	82v
+	A diverse regine e contesse
+	97-104
+	107v
+	A diverse donne nobili maritate a signori o non a nobili uomini e donne nobili di stato vedovile
+	105-118
+	121v
+	A diverse donne spirituali nobili e popolari di stato e abito secolare
+	119-126
+	138r
+	A diverse donne secolari e popolari di diversa giurisdizione e etade 
+	127-139
+	149r
+	
+
+        This hierarchical arrangement “is typical of those collections which can be traced through the Caffarini tradition,” and was also used in a manuscript edition of Catherine’s letters by Stefano di Corrado Maconi  (Noffke “The Writings of Catherine of Siena” 319, Luongo “Saintly Authorship in the Italian Renaissance” 153). Though it is not clear whether there were earlier examples of this organization previously, other medieval letter collections were similarly structured,[8] and it is not an altogether unexpected grouping for medieval and early modern collections. The groupings, however, give light to how Catherine intersected with these hierarchies, as a figure that is not limited to one group, but can relate to a full range of people in a very segmented society. Catherine acted as a person who was outside of these groups but was also embedded within them. Caffarini and others who controlled her texts chose to arrange her letters in this manner, highlighting the positions of people she interacted with in daily life, and implicitly pointed to her own shifting subjectivity and the fluidity of her movement among and through an established ranking of groups. Though to a contemporary reader this hierarchy is indicative of an unequal culture in terms of class and gender dynamics, with letters written exclusively to women occupying the very last subgroups of addressees (with even the queens and countesses ranking below male artists),[9] it is important to remember that Catherine was neither nobility nor a man, yet was able to move easily through this preordained structure. 
+Successfully negotiating the highly segmented landscape in which she found herself, Catherine was engaged in extended self-construction that seemed to influence how others also interpreted her. Recalling that the position of the virgin was considered to be something better and closer to the divine than being a mere mortal women at least as far back as Jerome, who conflated virgin women who served Christ with men (see above), it is interesting that throughout most of the framing of these letters, Catherine is largely referred to only as “vergine.” In the first volume (T.II.2), the introductory text reads (1r):
+In questo volume si contengono certa quantitade de epistole le quali ne sono venute al[l]e mani di quelle che la venerabile e am[m]irabile vergine. beata katherina da Siena del l[’] ordine del[l]a peniteaa di mill San Domenico m[a]ndo a diu[er]se persone di stato deritale e religioso e secolare [obscured word] epistole le quali da detta vergine mando a diversi somi potesia ao.e.a.pp. Gregorio undecimo e.a. papa Urbano Sexto 
+Ranked as “blessed,” Catherine as virgin is described as venerable and admirable as well, and though she is named in the first instance of each of the two volumes, in each subsequent mention of her before each subgroup, she is referred to only as “la sopradetta vergina” or “la detta vergine” (see, for instance, T.II.2 19r and 35v). Each of these subgroup headings are straightforward and do not continue to extol the virgin or those she is writing to; that is, Catherine’s blessedness, venerability or admirability is not repeated. However, the repetition of “virgin” rather than “Catherine” is noteworthy, and can seemingly conflate her with other divine unnamed entities, including the Virgin Mary herself. The emphasis on Catherine’s virgin status is in line with the overall ranking-centric methodology of the volumes’ structure, while also pointing to her position outside of the economy of positionality. 
+  
+
+T.II.3, 19r
+The subgroups of the volumes are further emphasized with the full-width illustrations that head each section of letters. These images are outlined in ink and feature a color wash, typically in tones of blue, red, black, pink, and green with efforts at shading, as can be seen in the scrolls above. Catherine is always the central, disembodied and haloed figure, flanked by men or women on the ground on either side. The figures on the ground can number as many as ten, or as few as four, and they are often reaching up for scrolls or praying, with scrolls in their hands, and clothing that reflects their respective stations in life (queens wearing crowns, for instance). There is careful artistic attention given to the individual figures, each one particularly unique with different features, and none of them rendered as a stock character. The terrestrial station of the female and male recipients is emphasized by the horizon line and coloring of the ground, and the other-worldliness of Catherine is highlighted by her floating on a cloud. As the central figure, dispersing scrolls to others, Catherine’s status as outside of a cultural economy is emphasized, yet she is also the connecting force, bringing each of these individuals together through her words. The illustrations are indicative of a real hierarchy, with Catherine serving as a substitute for the divine, hovering over people at every station of earthly life, and with her serving as the transmitter to people who receive her words.
+In terms of the letters, F. Thomas Luongo sees the illustrated scrolls not as physical paper or parchment (as in the Andrea di Bartolo altarpiece that features realistic representations of folded letters), but views what Catherine holds in her hands to be in “the form of banderoles, the standard iconographic signified for inspired speech” (“Saintly Authorship in the Italian Renaissance” 154). For Catherine, the letters are generally understood to be representative of an orality, but the materiality of her words were also significant, so I instead interpret these scrolls as a hybrid. As some of the figures in the illustrations are physically engaging with the scrolls through grabbing them as she releases them, and others hold rolled up scrolls that they had already received. Additionally, Catherine does not have the banderoles emitting from her mouth which sometimes occurred in depictions of speech (as in Paris, BnF, lat. 11978 (15th century)). What is perhaps most striking about the scrolls is that there is no text on them whatsoever.
+        As library desk books, these two volumes were likely accessible only to a very specific set of privileged people. Though images may be indicative of aiding illiterate readers, it is unlikely that those who had access to these books had difficulty reading, considering all the efforts in the styling of the manuscripts at large. In terms of specific readership, we do know that the second half of the first volume (T.II.2) was sent in 1658 to Pope Alexander VII who wanted to examine these pages, which were never restored back to Siena from Rome. Taking stock of the illustrations in tandem with the professional scribal writing and overall care given to these volumes, it is most likely that the books were the direct result of Caffarini’s attention given to the project of canonizing Catherine of Siena, and were intended to be read only by stakeholders that would be able to assist in the process.
+
+
 3. English manuscripts, publishing and readership network
         Cristofano’s translation of Catherine’s Dialogo allowed for the circulation of the text throughout greater Europe, and is the basis for which the initial English translation of Catherine’s book was based on (Schultze 189). Eventually becoming known as the Orchard of Syon, the text may have been made available as early as 1420, which is also the year that first professions were made at Syon Abbey, five years after the placement of the foundation stone laid by Henry V on February 22, 1415 (Hodgson vii). The desire for a Bridgettine order in England likely began with the marriage between the daughter of King Henry IV, Phillipa, and the King of Sweden, Eric XIII of Pomerania. During her time in Sweden, Phillipa’s head lady-in-waiting was the noblewoman Lady Katarina Knutsdotter who was also granddaughter of Bridget of Sweden, and Phillipa served as a benefactor of and frequent guest to Vadstena Abbey, founded by Bridget in 1346 (Flemberg 181-92). The Syon Abbey was a project that was as component of Henry V’s effort to legitimize his dynasty, and proved to become the most important house for female religious established in England in the century prior to the Reformation. Being the only house in England of the Bridgettines or the Order of St Saviour, which was founded by Bridget of Sweden, it was indicative of the ongoing movement of the time that spoke to renewal and reform in spirituality. It enjoyed great funding by Henry V, took a stand against Henry VIII’s project of the Reformation, and helped to develop Catholic recusant identity (Bainbridge 82). The role of Bridget of Sweden to the community should not be overlooked, as she was not a conventional saint, especially for contemporary English devotion at the time which was concerned with Lollardy. 
         Notably serving as a model for the English religious figure Margery Kempe, the noble-born Bridget was not a virgin but instead was a married woman who bore eight children and was widowed following a pilgrimage she took with her husband to Santiago de Compostela. Upon the death of her husband, Bridget joined the Third Order of St. Francis and devoted herself to a life of prayer, caring for the poor and the sick, and developing her community of double monasteries where men and women could live in poverty but still have access to books. In addition to her interest in texts and literacy, community-building, and her status as a tertiary nun, Bridget shared political aspirations with Catherine of Siena, traveling to Rome and working to return the papal seat there from Avignon. Along with being a biological mother, Bridget’s spirituality clashed with English religiosity due to her status as a mystic and a non-martyr, important because martyrdom served as the chief criterion for English sanctity from the early Middle Ages through the Reformation (Despres). English devotional practices, especially for women, were very restricted and continental figures that managed to develop a career of public spiritual advocacy and mystical practices would not prove to be suitable models. Though Margery Kempe suffered for her public displays of piety, Julian of Norwich’s position as an anchoress allowed her freedom to express her mystical experiences in texts. While 15th-century England does not immediately seem like a fitting environment for a figure like Catherine, not yet canonized, the local situation in the Bridgettine Syon Abbey seems like a more apt context for women to read an English translation of the Dialogo. 
@@ -57,7 +102,13 @@ http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMINBig.ASP?size=big&IllID
 
         The Cambridge, St John’s College MS C.25 is in a much different style to the Harley MS, with plainer decoration and the vellum is smaller in size. Initials have some decoration in red and blue ink and include gold leaf, though initials were cut out in two instances, and the first three pages of the manuscript are no longer extant. There is some sketched floral decoration in black ink in the margins, as well as banner illustrations to show continuing text for when sewing the pages together. There is some marginalia that highlights text with lines and curves, including playful marginalia that turns the curves into a face on 54r. Perhaps most interesting is the inclusion of light textual marginalia written in Italian on 20r, remarking on the confessore suo, the only instance of Italian intertextuality in the English Orchard of Syon manuscripts. The ink of this text is very faint, and it appears that it could be in the original scribal hand, though this cannot be certain and may instead point to a contemporary reader. In either case, this marginalia indicates that there is some readership aware of the original Italian version of this text, despite the Orchard’s provenance as a twice-removed translation of the Latin version.
 ________________
-[1] Noffke’s assessment of the scribe’s origin is based on the frequent use of the Tironian sign for et (317). 
-[2] In the extant version, all the letters in this grouping are to Raymond of Capua alone.
-[3] The group is likely larger but no longer extant
+[1] See Noffke’s “The Writings of Catherine of Siena” pp.317-319 in A Companion to Catherine of Siena for full details on these manuscripts.
+[2] Noffke has the total number of letters in the volumes as 220, with 81 letters in the first volume and 139 in the second (318); Luongo has the total number as 223 letters and does not offer a breakdown by volume (153). My count is from looking at the manuscripts in June 2015, and the letters are numbered in the margins.
+[3] Noffke’s assessment of the scribe’s origin is based on the frequent use of the Tironian sign for et (317). 
+[4] I am numbering these based on how they appear in each of the two volumes.
+[5] In the extant version, all the letters in this grouping are to Raymond of Capua alone.
+[6] The group is likely larger but no longer available together with the volume in Siena.
+[7] Word inserted.
+[8] F. Thomas Luongo also notes that “there might also be an echo here of the organizing principle of ad status sermon collections, whether or not any particular sermon collection was organized in precisely this way” (“Saintly Authorship in the Italian Renaissance, 153).
+[9] For letters addressed to men and women (as in a married couple), the letter is ranked to the status of the male addressee.
 [a]?
