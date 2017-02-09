@@ -1,60 +1,539 @@
-﻿Lisa Tagliaferri
-Lyrical Mysticism: The Writing and Reception of Catherine of Siena
-Chapter V
+﻿English manuscripts, publishing and readership network
+Coming from the vernacular tradition, with texts grounded in popular discourse, but outside of the language of the religious, the elite, and the powerful, it was a concern of Catherine’s followers to quickly render her works into Latin. Catherine’s Dialogo was translated into three Latin versions by three of her followers: Cristofano di Gano Guidini,[1] Stefano Maconi,[2] and her confessor Raymond of Capua.[3] Her letters survive in Latin translations in several manuscripts,[4] and her life would also be treated in Latin texts as Raymond’s Legenda maior, and Caffarini’s two works — the abridged Legenda minor and the more robust Libellus de Supplemento. The significance of rendering Catherine’s texts into Latin proved to be pivotal for Catherine’s eventual canonization, but this translation work was equally important to enable the dispersion of her texts into other European vernaculars. In many ways, these two pathways may have aided each other, as increased awareness about Catherine throughout Europe potentially served her in a religious context, and a religious interest in her may have driven the adoption of her texts in religious houses and the pious laity. 
+It is Cristofano’s translation of Catherine’s Dialogo into Latin that became the source for the early 15th-century Middle English translation of Catherine’s book, which eventually became known as the Orchard of Syon (Schultze 189). Later printed by Wynkyn de Worde in 1519, the manuscript versions of the Orchard of Syon are the earliest English texts we have of Catherine’s writing. The translation of Raymond’s Legenda into the Lyf of Katherine of Senis is only extant in printed form, with productions run in 1492 and 1500. The English version of Catherine’s Dialogo seems to have been specifically done for the nuns of the Syon Abbey, while the translation of Raymond’s Legenda was read by Dominican nuns at Swine Priory in Yorkshire and Cistercian nuns at Dartford Priory, and a copy was also found in the monks’ library at Syon (Grisé, “Catherine of Siena[a],” 217). Though these texts had their origins in religious houses, they also would circulate into lay communities, particularly the pious lay and those who had connections in the religious houses. 
+In the production of the English text of Catherine’s writing, there are several important linguistic and gendered implications to consider. For one, Latin is used as an intermediary language, with Latin translation being completed exclusively by men. The Latin texts of the Dialogo were done for their own purpose: serving as official documents for the Church that translated Catherine’s text not only to a different language but also to be within the purview of masculine discourse. The translation of Catherine’s words certainly benefitted her in the process towards canonization — other Italian religious women, such as Elena da Udine, would not reach sainthood with only vernacular texts. As Alison Knowles Frazier writes (233): 
+Vernacular accounts were especially aimed at women … But the cases of Birgitta of Sweden, Catherine of Siena, and Francesca Bussi indicate that a vernacular account would not have been sent to Rome, at least not unaccompanied by a Latin narrative … Fifteenth-century practice demanded a Latin account. 
+While these Latin texts aided Catherine, they also helped her male followers who produced these works in their political aspirations and religious professions, as they were connected to someone on her way to sanctity. Though vernacular texts were intended for a female audience, the Latin translations and original Latin texts were designed with high-office male religious in mind, even if they would later become the vehicles through which subsequent vernacular translations were made possible.
+Unlike the intended professional male readership of the Latin texts, the English texts — though written by men and following the masculine transmission of a text written by a woman — was written with female readership in mind. As the mystical figure — and particularly the female mystical figure — is often viewed as a conduit that serves God’s words to Christians, it is worth examining how men have served as the conduits for Catherine’s words, especially as they migrate into English.[5] The general perception of women serving as conduits of the divine is that it is the divine speaking through a female vessel. On the other hand, when men engage with women’s words, the presumption is that it’s men who are shaping the words of women in some way. As has been stated above, it seems unlikely that at least in terms of the Italian tradition the men around Catherine were seeking to change her message. Though some, like Caffarini, had their own political motives to canonize Catherine, the tenor of themes of the texts are consistent throughout the Dialogo, letters, and prayers. That being said, there is a shift in Raymond’s construction of Catherine in the Legenda that he authors and her own self-construction within her texts, in that he tends towards casting her within a more traditional role of feminine spirituality that de-emphasized her voice and actions. 
+Expressions of spirituality, especially feminine spirituality, greatly differed between Italy and England during the late Middle Ages and early Renaissance period, causing the translation of the text to be not only a linguistic endeavor, but also a theoretical and theological one. The adoption, therefore, of the Lyf of Katherine of Senis into a Middle English spiritual context seems more in keeping with the motives of both the text and the approach to cloistered and meditative feminine spirituality that was idealized in England. The translation of the Dialogo seems more unusual as it depicts a much more publicly engaged spirituality that pivots on acts of charity in the world. Though the editorial work and framing within the Orchard of Syon render it a different text than the Dialogo, Catherine’s words remain generally intact within a quite literal translation. This provided Catherinian spirituality with a platform within English culture, even if it was tempered in some way. In offering her own words to female readers, though mitigated through translation and editorial choices, the text constructs Catherine as a spiritual teacher — if not a precise model — for Catholic English female devotion. 
+Though not titled as such in the manuscripts, the English rendition of Catherine’s Dialogo eventually became known as the Orchard of Syon, and may have been made available as early as 1420. This was also the year that first professions were made at Syon Abbey, five years after the placement of the foundation stone laid by Henry V on February 22, 1415 (Hodgson vii). The desire for a Bridgettine order in England likely began with the marriage between the daughter of King Henry IV, Phillipa, and the King of Sweden, Eric XIII of Pomerania. During her time in Sweden, Phillipa’s head lady-in-waiting was the noblewoman Lady Katarina Knutsdotter who was also granddaughter of Bridget of Sweden, and Phillipa served as a benefactor of and frequent guest to Vadstena Abbey, founded by Bridget in 1346 (Flemberg 181-92). The Syon Abbey was a project that was a component of Henry V’s effort to legitimize his dynasty, and proved to become the most important house for female religious established in England in the century prior to the Reformation. Remarkably, the abbey would survive into the twenty-first century, with the last nuns leaving as recently as 2011. 
+Being the only house in England of the Bridgettines or the Order of St Saviour, which was founded by Bridget of Sweden, it was suggestive of the contemporaneous ongoing movement that spoke to renewal and reform in spirituality. It enjoyed great funding by Henry V, took a stand against Henry VIII’s project of the Reformation, and helped to develop Catholic recusant identity (Bainbridge 82). The role of Bridget of Sweden to the community should not be overlooked, as she was not a conventional saint, especially for contemporary English devotion at the time, which was concerned with Lollardy. Notably serving as a model for the English religious figure Margery Kempe, the noble-born Bridget was not a virgin but instead was a married woman who bore eight children and was widowed following a pilgrimage she took with her husband to Santiago de Compostela. Upon the death of her husband, Bridget joined the Third Order of St. Francis and devoted herself to a life of prayer, caring for the poor and the sick, and developing her community of double monasteries where men and women could live in poverty but still have access to books. Syon itself was originally a doubly monastery, possessing a separate community with a library each for men and women. We have inherited a large and thorough library catalogue from Syon Abbey that was preserved throughout the community’s exile in Lisbon during the post-Reformation. The collection is now housed at the University of Exeter.
+In addition to Bridget’s interest in texts and literacy, community-building, and her status as a tertiary nun, she shared political aspirations with Catherine of Siena, traveling to Rome and working to return the papal seat there from Avignon. Along with being a biological mother, Bridget’s spirituality clashed with English religiosity due to her status as a mystic and a non-martyr, important because martyrdom served as the chief criterion for English sanctity from the early Middle Ages through the Reformation (Despres). English devotional practices, especially for women, were very restricted and continental figures that managed to develop a career of public spiritual advocacy and mystical practices would not prove to be suitable models. Though Margery Kempe suffered for her public displays of piety, Julian of Norwich’s position as an anchoress allowed her freedom to express her mystical experiences in texts. While 15th-century England does not immediately seem like a fitting environment for a figure like Catherine, not yet canonized, the local situation in the Bridgettine Syon Abbey offered a more apt context for women to read an English translation of the Dialogo. 
+        As a text alone, the Orchard of Syon does not provide much available information and data regarding its provenance or the purpose behind it. Inevitably linked with the Syon Abbey and its nuns, it was likely intended for the first generation of these nuns specifically, and its primary translator was an anonymous one. As C. Annette Grisé notes, Wynkyn de Worde’s printing of the Orcharde of Syon was “the first book to showcase its association with Syon and its nuns,” with the nuns being addressed directly in the second prologue and epilogue, in addition to woodcuts that are evocative of the female community there (“Syon Abbey and English Books,” 132). From there, many more books of the “Syon tradition” would establish references to the abbey among its framing materials, including the works of Richard Whitford in the 1520s and 1530s. The manuscript of this English translation of Catherine’s text was found within two copies according to an “Envoy,” and the writing of it was continued by another by the name of “Dan Jamys.” This second man may have been a monk in the Carthusian monastery of Sheen, across the Thames from the female Syon Abbey (Schultze 189). Though in many ways the text is a faithful one, the major changes are editorial in nature, which serve to recast Catherine’s unique spirituality to one that is more in-line with traditional English expressions of devotion. C. Annette Grisé maintains that “framing materials” — prologues, prefatory letters, woodcuts, incipits, explicits and title-pages — were deployed to establish what amounted to a spiritual provenance within Syon Abbey, leading to substantiating a form of legitimacy on the part of the community (136). 
+Whether or not the prologue added this notion of a source, it is clear that the frame added to the Orchard served to allegorize the original Italian material, thus rendering Catherine’s concept of the vineyard and communal vineyards instead into a monastic image of a cloistered garden, and placing a greater emphasis on the “ghostly orchard” and “ghostly learning” rather than an active spirituality based on doing good works in the world. In addition to the framing narrative, another editorial intervention occurs that restructures the rubric, moving away from the Italian formulation. In particular, the English version moves the treatise on tears from its own position within the colloquies, to being appended to the fourth chapter on “Prayer.” Despres contends that this movement decreases the significance of tears in Catherine’s devotion and as a holy behavior independent of prayer, situating tears as a private form of worship and a component of praying in general terms (154). Though these interventions may be seemingly slight moves, and in many ways the women of Syon Abbey were still provided with access to the texts that Catherine originally wrote, rendered for them to read in their own vernacular language, the same textual control and attention to Catherine’s unique spirituality that were components of her reception in the Italian tradition are not preserved in England. 
+        Though the editorial changes done by the English translators of Catherine’s dialogue suggest a closed-off and more private and contemplative approach to spirituality, the significance of a literate female community engaging with Catherine’s texts should not be overlooked. The provenance of a Brigittine monastery certainly points to an interest in literacy, reading and books, and the Syon Abbey exemplifies this tradition with its great output and preservation of texts through the years, even maintaining them while they were exiled in Lisbon. Reading practices within the monastery were not limited to private devotion, and were structured throughout the day in various ways, with reading done silently and out loud with the utilization of printed books and manuscripts, and done both within communal spaces and privately in cells (Bowden 187). Of course, the women who would become the nuns and abbesses of Syon Abbey were from an elite class as they were able to read, unlike Margery Kempe who could not read and edit the autobiography she dictated to her scribes. 
+As one may expect from a literary community, these women circulated the books of Syon Abbey with a complex network of female lay patrons. In part due to a Carthusian influence of the 15th century, the laity were able to imitate continental ecstatic women in some ways, and were also able to intersect with the texts coming out of religious houses due to their having family members placed there. Denise L. Despres names Cecily, Duchess of York and mother of Edward IV; Alianore Roos; and Elizabeth Sywardby as among the female lay patrons who were most interested in reading continental devotional works. Though this should not necessarily suggest an extremely wide readership of Catherine’s work in English, the lay patrons who were interested in the textual production at Syon Abbey were likely the reason behind Wynkyn de Worde’s 1519 printed edition of the Orchard. Indeed, Elizabeth Strickland, a nun at Syon Abbey, gave her printed copy to the wife of Richard Ashton of Middleton, her executor (Grisé, “Catherine of Siena,” 219). As Jennifer N. Brown notes in her essay “From the Charterhouse to the Printing House,” Wynkyn de Worde had access to one or more manuscript versions of this text that do not survive, as he includes a prologue not found in the three extant copies (page[b]). Although it is unclear how many manuscript editions of the English translation of Catherine’s Dialogo existed, there were at least four copies, with the three described below still available to us.
+The two earliest extant manuscripts of Catherine’s Dialogo into English date from the first half of the 15th century: British Library MS Harley 3432, and Cambridge, St John’s College MS C.25. These first two editions are from the early history of Syon Abbey (Grisé, Syon Abbey in Late Medieval England, 50). The third extant manuscript is from the second half of the 15th century, Morgan M 162. There are additionally two manuscripts that contain a portion of the translation: an extract of part I, chapter 12 in Manchester, John Rylands Library, MS Latin 395; and an extract of part V, chapter 2 in Oxford, University College, MS 14 (Schultze 190). 
+        Though these manuscripts are named for the Abbey, and though there is evidence that this text was read by the women there, and though Catherine of Siena was an important female figure worshiped alongside the Virgin and Bridget of Sweden, “there is a conspicuous absence of evidence of manuscript production in the great women’s religious houses in England,” at Syon or any other women’s religious house (such as Barking, Dartford, Shaftsbury, Denny) (Despres 147). Ian Doyle writes that while many cloistered women did not enjoy literacy, women belonging to prestigious religious houses owned “a good many books, both for prayer and for reading, in French and English, besides for worship in Latin, and there is no reason why some anonymous manuscripts from the better-educated houses … should not have been written, decorated and bound by them” (15). Therefore, though there is a clear connection between the Syon Abbey and its readership and ownership of the Orcherd of Syon, there is no concrete documentation that links the production of any of these manuscripts to the women or the Abbey outright.
+        The earliest extant manuscript, the British Library’s Harley 3432 includes an incipit by an anonymous cleric who was most likely Carthusian, addressed to the “Religyuos moder & deuoute sustren, clepid & chosen bisily to laboure at the hous of Syon,” positioning this book within the context of the Abbey in an immediate way. This manuscript is exquisitely decorated, particularly at its celtic-knot initials with red, blue, green and white ink, and gold leaf, though some initials are left unfinished. For each new part, there is an emphasis on the border around the two columns of text, setting the structural parts off as discrete units. There is every indication that more decoration was intended for this manuscript as there are light marks in the rulings of many pages; good examples of this can be seen on pages 77r, 103v, 104r, 137r, 139r, and 174v.
+Drawing of person in between two columns on 122v (male face in profile -- there is a reference to “poor men” in the text nearby). Most of the marginalia present seems to have been done by the original hand, in the form of citations or lengthy additions that replace cross-outs of the text in columns (as on 117r). Some marginalia includes decoration, including a drawing of a male face in profile between the columns on 122v — there is a reference to “poor men” in the proximate text.
+There is also the marginalia of others in the book, including historically much more recent lightly done marginalia on 105r. At the beginning and last pages of the book there are many male autographs from the 16th and 17th centuries, showing clearly that this book continued to be seen as a luxury item, if not a text to read, throughout its life before its inclusion in the British Library. The material nature of the book reveals that there has been continued care, as some pages that were ripped were repaired with new vellum paper (not animal hide), as can be seen on pages 45, 50, 107 (small tear), 119, small repairs on 127 and 128, and on page 148. Some pages are ripped and repaired with new vellum (not animal hide), which can be seen on pages 21, 45, 50, slightly on 107, 119, small repairs on 127 & 128, 148. In the instance of page 21, it is possible to see that someone re-wrote the missing letters on the new vellum, which appears to have been added on the recto but transparent enough to see through to the verso. Though this repair was done with care it is an obvious remedy due to the use of much later paper. Despite this commitment to tending to the book, there is what appears to be a spill over some pages, particularly along the top, with pages 172-174 and 182-193 most damaged. These spills do not diminish the legibility, and instead suggest a continued engagement with the text beyond the book as a collectible. 
+Among the signatures in the front and back of the book is one from Walter D’evereux, the 1st Devereux Earl of Essex. This became a book within John Batteley’s collection, who was a Church of England clergyman and antiquary. The Harley Collection purchased Batteley’s collection on November 5, 1723 (Wright 1966). Formed by Robert, Mortimer and Edward Harley, the Collection was bequeathed to Edward Harley’s widow Henrietta Cavendish, then to their daughter Margaret Cavendish Bentinck, and was eventually sold to the nation of England in 1753, forming one of the foundation collections of the British Library. The lifecycle of the manuscript points primarily to masculine readership or at least ownership through the 16th and 17th centuries, and eventually returns to female ownership before becoming part of a communal reading space more in line with its provenance. 
+  
+
+http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMINBig.ASP?size=big&IllID=24730 
 
 
-Catherine’s Advice to Women
-With one-third of her letters addressed to women — many of whom were fellow mantellate — Catherine is able to take on the role of a spiritual advisor in the manner of a friend, sister, or mother, and able to write in a register that negotiates between the seriousness of the word of God and the playfulness of informal companionship. A series of letters in particular, to Daniella da Orvieto — “vestita dell’abito di Santo Domenico,” a mantellata, who later attained the state of blessedness, but of whom we do not know many historical details — are particularly provocative and show the full register of Catherine’s writing to women. Daniella is the recipient of four very long and intense letters that were written between the fall of 1378 and early 1380. She appears to be viewed as a spiritual equal by Catherine, though perhaps younger, and seems to have been trying to imitate Catherine’s extreme fasting and penance (Noffke 232). Catherine offers advice and guidance to Daniella, as she does to many similar women in terms of health, behavior and voice, but she also presents some contradictory suggestions. As to whether a woman should speak freely, as Catherine did, or resign herself to silence, to Daniella Catherine recommends both. This appeal to both speaking and silence suggests that a female voice must follow a certain paradoxical standard, or may evolve from one approach to the other. Also, though Catherine does tend to emphasize the corporal, with Daniella this is pronounced.  
-Her first letter to Daniella is T65, believed to have been dated in September or early October 1378. Focusing on the consecrated life, T65 is very similar to a letter written to William Flete (T64) and a section of the Dialogo on “Truth.”[1] In fact, because letters T64 and T65 predate the composition of the Dialogo these letters (as well as T272 written to Raymond which presents a mini-outline of the Libro) “would later be amended and inserted in [the Dialogo] through a typical process of interpolation” (Ragazzi 46). This is to say that the letters prove to have as much literary merit as her Libro. Each of the letters T64 and T65 follow a parallel structure, but the endings of each are unique and the similar content “is used in each letter with quite different intent” (Noffke, Letters vol. III, 232). In T65 to Daniella, Catherine first mercilessly analyzes the dangers of the ascetic life (though she was clearly a practitioner), then rises to the ardent contemplation of divine love. She discusses two points in particular that she wants Daniella to observe: to be absent of judgmental thoughts of fellow humans, and to understand the importance of a life of mortification (a life that Catherine believes they have both been called to). By the end, however, she writes very personally on her own failings at moderation, “Dolgomi io miserabile, che non seguitai mai questa vera dottrina; anco, ho fatto il contrario, e pero mi sento d’essere caduta spesse volte in dispiacere e in giudizio del prossimo”[2] (T65). Catherine divulges her own difficulties in moderating her practice of penance and in judging others’ practices, wrongfully having believed that if they were not as self-punishing as she that they were not worthy of divine light. In this way, the letter offers Catherine herself as a human being who is not always a supreme example of spiritual devotion, allowing a personal register alongside her more general and mystical approach to offering guidance.
-Although in many ways Catherine of Siena acted as an extremely public figure, she also worked to harmonize her life in terms of an outside, public-facing life alongside a meditative life of self-imposed private contemplation. Daniella attempted to live extremely ascetically in a self-imposed cloister, following a more traditional expression of female spirituality. Catherine, too, makes use of this trope, and to some of her letter recipients, she addresses the concept of the “cell of self-knowledge.” For Catherine, this is dualistic in nature as it requires a mental cloistering of the self while going about as a person in the world amid earthly obligations and distractions. In one letter to the Countess Benedetta Salimbeni, this image is particularly lucid. She writes about the planting of the tree of love for God, explaining where it should be planted (T113):
-La terra è la vera umiltà … e ‘l luogo, dov’ella è, è’l giardino chiuso del cognoscimento di sè. Dico che è chiuso, perchè l’anima che sta nella cella del cognoscimento di sè medesima, ella è chiusa, e non è aperta, cioè che non si diletta nelle delizie del mondo. …  non spande il cuore suo per confusione nè per tedio di mente…. Anco si serra e si chiude colla compagnia della speranza e col lume della santissima fede.[3]
-This description of self-knowledge as an enclosed garden resonates with the idea of the cloister, but is kept inside oneself, rather than the more traditional and opposite approach of keeping oneself within a cloister. The person who has this garden or cell can lock herself up in it, and not take part in worldly delights, though she is part of the world. By cultivating her own self-knowledge, Catherine was able to maintain a private internal refuge for herself to continue her solitary contemplation of God while publicly doing God’s work in the world. 
-Through living within harmony between public and private, Catherine also advises other women to strike this moderate accord that acknowledges spiritual life but directs energy toward the eternal life. In letter T61 to Monna Agnesa Malavolti and other mantellate — perhaps Catherine’s earliest surviving letter — Catherine meditates on Saint Agnes of Montepulciano and Mary Magdalen, pointing out the former’s holy humility and the latter’s passionate “drunken” love. It is between this dichotomy of saints — the meek and the fervent — that Catherine advises the women to behave. She writes, “io vi prego e vi comando che voi entriate in questo santissimo mezzo” —“I beg you, I command you: enter into this most holy middle,”[4] or as Tylus interprets it, this “balance between the two saints” (T61, 197). In either case it is necessary for spiritual women of the 14th century to paradoxically be both a cloistered mystical abbess like Agnes, and a public preacher and converter like the passionate Mary Magdalen. Catherine’s own approach to balancing the public and private aspects of her life can be seen as a blend between Agnes and Mary Magdalen, as she worked to cultivate an inner cell and was blessed with intimate visions, while also doing charitable and political work in the world. In this manner, the addressees of this letter should learn to follow each of the saints, and find a proper equilibrium of neither too humble nor too ardent. The mediation between a quiet charity and an impassioned zeal also elucidates Catherine’s advice regarding speech. That perhaps her fellow mantellate should still the tongue but not too much while also striving to be quite loquacious when speaking God’s will.
-In her second letter to Daniella, Catherine is explicit regarding the degree of moderation — or discretion as it informs the other virtues, as Grazia Mangano Ragazzi argues[5] — that Daniella must seek to balance worldly and spiritual affairs. This epistle, T213, is dated in mid-October 1378, and as Ragazzi notes, “Tommaseo regards letter 213 as one of the masterpieces of Italian prose” (78). Like Catherine in her teenage years, Daniella opted to remain in a self-imposed cell. She experienced difficulty due to her asceticism, and found herself very sick due to scoring her body to an unhealthy degree. Though Catherine makes clear that it is within normal spiritual bounds for Daniella to discipline her body so that it may be more compliant, she should not do so if she is weak from illness: “Anco, debbe non solamente lassare il digiuno, ma mangi della carne: e se non gli basta una volta il dì, pigline quattro. Se non può stare in terra, stia in sul letto; se non può inginocchioni, stia a sedere e a giacere, se n’ha bisogno.”[6] The implication here — that Daniella should not only give up fasting but eat meat, and eat it several times a day, and that she should repose as needed — indicates that her health is an important aspect of serving God. In this letter it is made clear that she does not expect the same fortitude of others that she expects of herself, and she does not wish others to be in poor health trying to follow her example. When writing to Daniella, we can see a caring and motherly Catherine who offers sound advice to others when they cannot follow the example that she herself puts forth as a mystic who constantly fasts and beats her own body.
-The importance of health is central to Catherine’s spirituality, as she acted as a force in the world. Those who have been to Siena today may have noticed the escalators that are located throughout the city in order to accommodate easier passage among the steep hills. Catherine, who did good works in her own city and traveled throughout Italy and to France in the 14th century, relied very much on her good health in order to accomplish her acts of community building, political engagement, and promoting the social good. Therefore it is in keeping with Catherine’s spirituality to encourage Daniella to get better so that she may bring her entire body to bear on the production of charity. In this same letter, she delineates and dismembers the body to explain how the entire corporal being can be utilized for the word of God (T213):
-A tutte le membra del corpo dà ordine, acciocché siano modeste e temperate: l’occhio non ragguardi dove egli non debbe, ma dinanzi a sé ponga la Terra, e ‘l Cielo: la lingua fugga il parlare ozioso e vano, e sia ordinata ad annunziare la parola di Dio in salute del prossimo, e confessare i peccati suoi: l’orecchia fugga le parole dilettevoli, lusinghevoli, dissolute, edi detrazione, che gli fussero dette; e attenda a udire la parola di Dio, e il bisogno del prossimo, cioè volontariamente udire la sua necessità. Così la mano nel toccare o nello adoperare, i piei nell’andare; a tutti dà regola. E acciocché per la perversa legge della impugnazione che dà la carne contra lo spirito, non si levi a disordinare questi strumenti, pone la regola al corpo, macerandolo con la vigilia, col digiuno, e con gli altri esercizii, i quali hanno tutti a raffrenare il corpo nostro.[7]
-With this letter, which is offered as advice to another, we can infer how Catherine governs her own individual body parts. Though Catherine is loquacious, we must reason that her mouth is tempered to only speak and proclaim the word of God — never talking idly, as her ears must selectively listen, as her eyes must look to the ground or to the heavens, her feet run, and her hand touch and bring things to fruition. For Catherine, the hand and the tongue must work in harmony, which may be informed by traditional Dominican spirituality as it is consistent with the early preacher Humbert who writes that “one should preach not only with his voice, but with all that he is” (Tylus 184). Not only must Catherine bring her voice to bear on sharing the word of God, but she must make use of her body as well.
-        The position of the tongue in this letter may be of particular interest, as Catherine recommends neither that a woman speak freely nor that she should resign herself to silence — indeed, she advises that Daniella do both, suggesting that a female voice must follow a certain standard, or may evolve. Though other mantellate were certainly engaged in charitable works in hospitals and involved in lay society, Catherine was certainly the most politically and publicly engaged of her group. Her advice to other mantellate, from letter T40 written in 1377, addressed to “certain of her daughters in Siena,” offers another compromise between conversation and choosing not to socialize: “che questa purità di mente e di corpo non si potrebbe avere con le molte conversazioni delle creature, nè col ponere l’affetto e l'amore nostro in loro nè in cosecreate, fuori della volontà di Dio.”[8] Again, there is this emphasis that speech should be withheld when it does not serve God, and that speech is made acceptable when conversations occur within the realm of charity for God. When the mantellate care for the ill in the hospital, they are to weep or rejoice with those who weep or rejoice: “e godendo con coloro che godono, che sono veri servi di Cristo crocifisso; e sempre dilettarvi della loro conversazione”[9] (T40). Catherine identifies two separate kinds of speech, but interestingly she uses the same word — “conversazione” — in both cases, causing the speech done outside of God’s love and within God’s love to be quite ambiguous. While Catherine can demonstrate that there are two ways to speak, and that women should indeed speak to serve God, women should not speak in all instances.
-Letter T213, which is very lengthy within Catherine’s corpus at 3,100 words, shifts to focusing more on the body and punishment of the body than it does toward speech acts and the tongue by the end of the text. Though there is a transition, Catherine continues to advise Daniella:
-io invito te e me a fare quello che per lo tempo passato io confesso non avere fatto con quella perfezione ch’io debbo. A te non è intervenuto come a me, cioè d’essere stata e essere molto difettuosa, né d’essere andata con larghezza di vita, e non con estrema, per lo mio difetto; ma tu, come persona che hai voluta atterrare la gioventudine del corpo tuo, acciocché non sia ribello all’anima, hai presa la vita estrema per siffatto modo, che pare che esca fuore dell’ordine della discrezione[10]
-Paradoxically, Catherine is both esteeming Daniella’s commitment to asceticism as being greater than what she herself was able to achieve, and reprimanding Daniella for going beyond discretion. Catherine confesses that she has not been perfect in her complete humility, and she says this in close proximity to addressing again Daniella’s body, with the description of it being youthful. Employing the noun “gioventudine” rather than the adjective “giovane,” she further emphasizes the idea of youthfulness, and in placing the “tuo” after “corpo,” the reader sees “gioventudine” and “corpo” in close succession. Despite a tone that is becoming more corporeally concerned, there is still the mother’s scolding evident in this letter; the word “estrema” is used positively, but going out of the confines of discretion is unacceptable. Tylus notes that Catherine “cultivated the persona of the ‘mamma’ (perhaps partially to guard against sexual overtones of her relationships with young men her age),” so this wavering between a maternal and more sexualized tone is not limited to Daniella in particular or her female companions in general (117). The concern with the body coupled with the advice and even scolding of Daniella shows that Catherine has a special relationship with the young woman that differs in tone from many of her more friendly letters to other mantellate. 
-In early November 1378, Catherine writes letter T316 to Daniella in anticipation of a visit to Orvieto on her way to Rome. In this letter, she continues to offer advice to Daniella, explaining to her that she understands the tension between what the young woman is perceiving God is telling her to do, and what other religious are advising her to do. She encourages Daniella to respond to what she feels called to, and notes that both herself and Daniella enjoy being in the special light of God. This letter is full of literary symbols — though it was common in the Middle Ages to liken the Christ to a book, it is not often that we see two women in correspondence to each other discussing this. We know that both women are reading and writing as Catherine mentions a letter that she recently received from Daniella, showing again the community of literate women around her. Explaining the rule of eternal Truth, Catherine writes:
-… scrissela nel corpo suo con lettere sì grosse, che veruno e di si basso intendimento che si possa scusare; non con inchiostro, ma col sangue suo. Bene vedi tu i capoversi di questo libro, quanto essi sono grandi…[11] 
-In this imagery, Catherine touches on the common tropes of Christ as parchment, his blood as ink, and the concept of God as author. Though this would likely be familiar imagery to people of this time, it is remarkable that it is written in the context of one woman to another. There are two other letters in which Catherine uses book imagery: T309 to Giovanni da Parma, and T318 to Sano di Maco and the other Christian laity of Siena. The first of these two letters, written to the layman Giovanni da Parma is dated October 23, 1377, and the second is written to a lay woolworking man and perhaps a mixed-gender group of her other followers, and is dated late January 1379. This second letter makes the imagery of Christ as book even more explicit in one phrase: “scritta nel corpo suo: e fece di sè un libro,”[12] and contrasts the book of life and Christ with the book of sin and “sensualità.” Catherine used this literary imagery in three different years of her letter production, but she only to lay people. These letters, particularly the letter to Daniella, assume a familiarity with books, and with large initials that would be contained in expensive manuscripts, suggesting that both women had some form of access to or knowledge about books and their design. The diction around books and literacy moves into Catherine’s recommendation for Daniella to follow her own sensibilities, empowering her to not listen to those who she may wrongly think know more than she does, which seems validated after considering Daniella’s knowledge of books, writing, and the eternal Truth of God. 
-        Towards the end of the letter, Catherine provides Daniella with more advice, telling her not to sleep, not to be negligent, to be humble, and to pray continuously:
-Non dormiamo più, destianci dal sonno della negligenzia, mugghiando con umili e continue orazioni sopra il corpo mistico della santa Chiesa, e sopra il vicario di Cristo. Non cessare d’orare per lui, che gli dia lume e fortezza a resistere a’ colpi de’ dimoni incarnati, amatori di loro medesimi, i quali vogliono contaminare la Fede nostra.[13]
-There is a focus on the mystical body of the Church, which is always rendered as a woman and is grammatically gendered feminine, bringing back a corporeal aspect to the letter. Then there are the fleshy demons who are “amatori di loro medesimi,” seeking to contaminate the Christian faith. In other letters, Catherine makes use of these two phrases — the lovers who love themselves and the “dimoni incarnati.” She typically discusses men who love themselves as being evil and seeking to do harm, as in a letter dated October 5, 1378 to Pope Urban VI: “con desiderio di vedervi vestito del vestimento forte dell’ardentissima carità, acciocchè li colpi che vi sono gittati dagl’iniqui uomini del mondo amatori di loro medesimi, non vi possano nuocere.”[14] Her references to the incarnate demons are equally negative, though she only suggests that they could be likened to the letter recipient or other Christians in T190 to the tailor Francesco di Pipino and his wife Agnesa in late October 1378:
-Voglio dunque che a questo abbiate una grande avvertenzia, di sempre conversare con i servi di Dio, e serve; e gli altri e l'altre fuggire come fuoco. E non vi fidatemai di voi, dicendo: «io son forte, e non temo che questi mi faccia cadere». ... Ma con vera umiltà cognosciamo che, se Dio non ci tiene egli, noi saremmo dimoni incarnati.[15]
-This is to say that associating with those who have no faith can cause God’s followers to lapse, even if they think they are strong enough to resist. Catherine makes it clear that without God holding on to us, we would all be devils in the flesh. 
-With these images in mind, let us continue to the last letter Catherine writes to Sister Daniella da Orvieto, dated to late 1378 or early 1379, T308. Noffke glosses the tone of this letter as being “quite general, except for Catherine’s plea for prayer for the Church,” but I believe it is unusual in its use of diction, though Noffke translates some of the distinctive phrases in a different manner (Letters, Vol. IV, p. 64). Throughout this letter there is a focus on beauty, blood, and love. She uses the word “bellezza” five times in the first third of the letter, and she only uses the word “bellezza” in 54 of her letters total (just under 14% of her corpus of letters). The beauty she sees in Daniella is in her soul, innocence, and within “his creature” — which could refer to humanity in general or Daniella in particular. She also describes God being “ebbro d’amore” (“drunk with love”) due to the beauty he finds in his creation, which is a common phrase throughout the Dialogo (see Chapter 2 above), but only occurs in three of her letters.[16] In the last few lines of T308 Catherine invokes the mystical image of bathing and drowning in Christ’s blood, which appears in six letters and in some places in the Dialogo, but she also uses the phrase of Daniella and Catherine being “amatori di noi,” so similar to how she describes the demons in other letters. She writes:
-Bàguati nel sangue, acciocchè scrupolo veruno non caggia[17] mai nella mente tua, nè per timore servile. Ma nascondianci nella caverna del costato di Cristo crocifisso, dove hai trovato l’abondanzia del sangue. In altro modo anderemo in tenebre, e saremo amatori di noi. Considerando me che altro modo non c’era, dissi ch’io desideravo di vederti bagnata e annegata nel sangue di Cristo crocifisso: e così voglio che tu facci. Altro non ti dico. Permani nella santa e dolce dilezione di Dio: abbi fame del suo onore e desiderio. Gesù dolce. Gesù amore.[18]
-This letter to Daniella seems particularly graphic and corporeal, even for mystical standards, because of its specificity. She discusses the ribcage of Christ — it is Christ’s side and the blood there that correlates to Catherine’s mystic vision. Generally, in Catherine’s mystical vision as described in Heather Webb’s essay “Catherine of Siena’s Heart,” there is the depiction of Catherine and Christ as containers of each other, depending on perspective. In this instance, though, it is Catherine and Daniella who are hiding themselves in the cave of Christ’s ribs.
-Though she does only mention bathing and drowning in the blood of Christ in six letters, Catherine does use the same imagery in a few instances in the Dialogo, though sometimes she uses the word “annegata” in terms of drowning in the will of God rather than in blood. In Dialogo 131 she does explicitly mention drowning and bathing in the blood of Christ, both in the middle and towards the end of the section:
-Passando subito per la porta stretta, che e il Verbo, e poiché è annegata nel Sangue, giunge a me, mare pacifico, essendo una stessa cosa io, mare pacifico, e la porta che è la mia Verità, l’Unigenito mio Figlio.[19]
-        … 
-Passano così, gloriosamente, da questa vita, bagnati nel Sangue, con la fame della salute delle anime, tutti affocati nella carità del prossimo, attraverso la porta, che è il Verbo, ed entrano in me.[20]
-These two descriptions of drowning and bathing, respectively, in the blood of Christ can also be understood in general terms as it concerns the proverbial “every man” soul, or the specific soul that belongs to Catherine. Like the letter to Daniella, this imagery can be read rather erotically, as the sea and the gate are joined and made to be one and the same, facilitating the hungry blood-soaked souls to enter into the gate. Christ as gate seems to gender him as feminine in terms of both Italian grammar and in terms of being the open receiver rather than the souls that are pushing through (though these are also gendered feminine). The drowning and bathing imagery is corporeal, erotic and tends to connote Christ in feminine terms. This is also the case for letter T308 as it is Catherine and Daniella who are inside of Christ who receives them.
-When Catherine writes to Daniella, is she hoping to share her mystic qualities with the woman in whom she sees so much of herself? Entering the darkness, Catherine and Daniella, together, will be lovers of themselves, with language identical to the letters that discuss demons who are loving themselves. This can be interpreted as falling under a category of self-love that is in turn love that is directed to God by virtue of the self being God’s creation, but it is unusual that demons and wicked men are also engaging in this behavior throughout Catherine’s letter corpus. This erotic language is therefore quite ambiguous when considered it alongside Catherine’s common tropes. Why does she use this language, when it seems obvious that she would not want to liken herself or Daniella to sinners? The diction that includes shadows, hiding, and being lovers of ourselves,suggests that there may be more to their relationship with sin than may be obvious. In this short letter, Catherine soon has nothing more to say to Danella beyond stating that she would like to see the young nun be soaked and drowned in Christ’s blood, and wanting Daniella to have “hunger” for God’s honor and desire. Finally, as is customary, she ends the letter with the often employed “Gesù dolce, Gesù amore,” returning back to her use of the rhetorical structure of letters.
-Erotic overtones are not unusual in medieval mystic writers, and, given that women who pursued religious vocations are said to be the wives of Christ, the eroticism directed towards the divine seems almost natural. Previous medieval writers such as Boccaccio and Heloise, among others, write about nuns with voracious sexual appetites in their stories and their letters.[21] Since we have so few texts from women living lives similar to Catherine, and given a context of eroticism in medieval religious literature, perhaps this current of corporeality is merely another transference of orality to textuality.  As a bride of Christ, Catherine’s spirituality is decidedly erotic at times, and it transfers to her followers — both female and male — on occasion. When writing to other women, many of whom were living in a way similar to her own life as mantellate who balanced their time between this world and the other world, Catherine conflates and complicates their relationships by being a friend, mother, possible lover, and religious leader, offering advice that would be difficult for anyone to follow due to its paradoxical nature, but in keeping with her own approach to spirituality.
+        The Cambridge, St John’s College MS C.25 is in a much different style to the Harley MS, with plainer decoration and the vellum is smaller in size. Initials have some decoration in red and blue ink and include gold leaf, though initials were cut out in two instances, and the first three pages of the manuscript are no longer extant. There is some sketched floral decoration in black ink in the margins, as well as banner illustrations to show continuing text to aid those who would sew the pages together. There is some marginalia that highlights text with lines and curves, including playful marginalia that turns the curves into a face on 54r. There is light textual marginalia written in Latin on several pages. The ink of this text is very faint, and it appears that it could be in the original scribal hand, though this cannot be certain and may instead point to another contemporary reader. In either case, this marginalia indicates that there is some educated readership engaging with this manuscript that itself has been the result of intertextuality.
+…
+
+
+
+
+Although this chapter is focused on the text of the Orchard of Syon, it is worth noting some of the other Caherinian texts that proliferated in England during the 15th-17th centuries. MS Bodley 131, dated to the 1430s, includes letters as well as short extracts of Catherine’s Dialogo and Bridget of Sweden’s Revelations[c] in sequence. The inclusion of the two side-by-side suggest a linking between their approaches to spiritual devotion that was not limited to Syon Abbey. The provenance of this book was York, in the north of England, and it belonged to John Morton of York who was a member of a Austin friars lay fraternity along with his wife (Grisé, “Catherine of Siena,” 219). Notably, the manuscript also includes a text of one of Catherine’s interlocutors: William Flete’s Remedies Against Temptations. 
+As stated above, Raymond of Capua’s Lyf of Katherine of Senis was printed at two points (1492 and 1500), connoting its popularity. Differing from the Latin text, the English translator took liberties in shortening the and editing so as to not go beyond the reader’s ability to understand. As Brown notes, the text was largely intended for the lay audience outside of the convent and charterhouse, which may explain why the text has been abbreviated. Within this English text, Catherine is put forth as an exemplary model of female devotion and sanctity, which is in keeping with Raymond’s construction of her as a less transgressive figure than she likely was during her time period. Interestingly, as Brown observes, the translator does not maintain the first person singular that Raymond used, but replaces the word “I” with the word “Raymond,” which was unusual for translations of vitae and other devotional texts of the same period. [d]
+Another printing of interest is a book of devotional excerpts published in 1521 by Henry Pepwell for the laity. This has been of interest to scholars because it uniquely contains printed excerpts from The Book of Margery Kempe. Additionally, the text includes extracts from the Lyf of Catherine, as well as the Cloud of Unknowing. Brown’s analysis finds that the Catherine excerpts are truncated and included within this printing in order to appeal to a particular kind of reader who sought after an easily digestible female spirituality, with mystical elements removed (page[e]). Eventually, the excerpts from Catherine’s Lyf would be stripped by later readers as they were perceived to display anti-Protestant sentiments. 
+Finally, a 1609 translation of Catherine’s Life was sold by John Heigham to English recusants. Translated by John Fenn, a Roman Catholic priest who was living in exile in Leuven, this text seems unaware of the previous English translation, and interestingly was done from Ambrosianus Catherinus’s Italian version of Raymond of Capua’s Legenda maior. The intertextuality at play seems to recall Catherine to the vernacular tradition in which she was embedded, by further removing her figure from the Latin language. As this text originated in exile, it was also intended to support other recusants living in exile, though the bookseller Heigham wrote the dedicatory address to a specific unnamed female reader in particular. Again, the female readership is invoked if not outright intended by the men translating and editing this book for an English audience, though Brown notes that this dedication engages in a false construction wherein the printed, public text lays claim to a personal, private reader (page[f]). The bookseller was later arrested and imprisoned in England for his Catholic book trade. As Brown convincingly argues, Catherine is of significance to the recusants in England as her having returned the papacy back to its rightful place in Rome resonated with their desire to return England to the Church of Rome (page[g]). 
+
+
+Close reading to support Catherine as teacher
+                Along with Teresa of Avila, Catherine of Siena became a Doctor of the Church in 1970 (Teresa was honored first in September, and Catherine in October), by Pope Paul VI. The two of them are the first two female Doctors, and there currently are four.  Having died in 1380, Catherine was canonized in 1461 by Pope Pius II. For Catherine, I believe that the situating of her as a saint within Latin texts was very important for her eligibility to receive the honors presented to her by the Church. Naming her as Doctor of the Church is a testament to her balance of the contemplative and active life, as Church Doctors are known for their deep religious knowledge and their preaching.
+
+
+        Manuscripts[h]
+        Morgan Library
+MS M.162
+B1 350 C MS M.0162
+
+
+(ca. 1470)
+Orchard of Syon
+186 leaves (1 column, 36 lines), bound:
+210 x 140 mm
+Bound ms. Record ID: 77080
+
+
+Front inner page attached to binding
+
+
+M162
+Catherine of Siena
+Revelazioni, in English - XV cent
+
+
+Text of the Orchard of Syon, as printed by Wynkyn de Worde in 1519
+
+
+[sticker -- shield with fox on top
+Banner: TUGEND FREYHEIT FRIEDE
+script below: R. Hon Aspley Bed’s ]
+
+
+[sticker -- The Pierpont Morgan Library]
+
+
+[sticker:
+FROM THE LIBRARY 
+OF WILLIAM MORRIS
+KELMSCOTT HOUSE
+HAMMERSMITH ]
+
+
+[stamp:
+REPAIRED BY DUPREZ LAHEY ]
+
+
+[First inner page, which is newer than the rest, secretary hand?
+
+
+98.
+Wynkyn de Worde ps. fol. At 1519.
+The boke of dyunyne doctryine of Goddes techynge
+gyven by the personne of God to Saynt Katerin of Seane
+                                                Ames H. pes.
+                                                196-95.
+        & fol. 1519
+Here begynneth the orcharde of Syon, in the which is 
+contained the revelation of Saynt Katheryine of Sene
+with ghostly…
+…
+She was canonised by the pope [...] 2 [...] 1461
+...a dominican nun … 1367 died 1380 aged 33
+[writes out her bibliography]
+1. Dialogue of providentia Dei … 1611
+2. Letters (364) in her mother tongue, ps. in Italian 1506
+                                                French paris 1644-46
+3. Oratio in annunciationam .. translated into Latin by her confessor Raymond de Vineis in gold stadt 1583
+4. Divina doctrina data per pentoram oterne patris in telle … composed by James Cologne 1553 … 
+She was eminent for her piety, chastity charity …
+
+
+
+
+
+
+New pages - 1v
+This MS contains all the matter printed in Wynkyn 
+de Worde’s ‘Orcharde of Syon (1519) except the first prologue
+by Marcus Civilis, of ‘L’envoye of Dane James the translator’
+with the printer’s long colsphon — The spelling, & a
+word here or there, have been offered in the printed book.
+
+
+Owners: John Crosse, Joseph Ames, & Richard How of
+Aspley, Beds.
+
+
+[sticker with shield, banner that reads “HONESTUS BENE DICTUS”
+“Richard Bennett.” in printed script]
+
+
+New pages - 2r
+The Revelations of St. Katherine
+of Siena
+
+
+The boke of divine doctrine
+
+
+[Many blank new pages in paper, then old pages in paper]
+
+
+xi
+T… lyffe maide fro xx days
+of may
+[flourish]
+John Crosse …
+
+
+Old pages
+[parchment page 1-8]
+[all other pages are paper]
+
+
+1r
+[One column, dense black text
+Jesus written on the top (IHS)
+William Mertlowe ? written in gold below (pencil marginalia next to it)
+Capital R decorated in pink, blue, gold, with floral flourishes
+Added words put into margin]
+
+
+Religious modir and devout sustern clepid and
+chose bisili to laboure at the hous of syon in the blessid
+vyneyerd of oure holi sauvoure. his perfite rule. whi
+the hym self endured.to kepe contyneunuelito youre
+lynes ende.under the gouernaunce of oure blessid 
+lady. Her seruyse only to rede.and to synge:as her spe…
+
+
+1v
+[initials -- these are less beautiful in blue letter with red lines around, and red linear and curly decorations at margin]
+...
+The first chapitre of propautie
+…
+The seconde chapitre is hour eche vertu and defaute is for 
+some maner mene of a mannes neighbor
+...
+The thrid chapitre 
+…
+
+
+
+
+2r
+The forthe chapitre is.hour the soule of this maide
+…
+Also hour somme is more give
+…
+The fivft capitre of the seconde pautie makey mencione
+of a brigge.and hour god made a brigge of his sone
+
+
+[continue to page 7]
+
+
+7v
+…
+The fifte chapiter of this last partie is a repetition of…
+…
+Lo fifteen j have schewid to you what yuipes and herbes j
+have founde and gaderid to plante and to sette in
+your softh orchard, …
+
+
+[blank page ruled in pencil]
+
+
+9r
+[text underlined in red]
+Here begynney the boke of divine doctrine. it is to sere.of goodis te
+chinge...
+… and of muche [other] dottrine.
+
+
+[decorated gold capital A] Soule th tis offered up …
+
+
+[there is red decorating the letters of the beginning of sentences]
+[new chapters have blue chapter symbol]
+[there are pin pricks on the outer edge of pages]
+[turned back to paper from parchment]
+[clever insertion marks as in page 13v -- photo]
+
+
+[next chapter is on page 25v [prologue] / 26r [initial w Catherine’s text]]
+After tyme a
+soule is come.and have gote this general list. As
+j have rehersid afore: sche schold not hold her
+…
+
+
+[next chapter page 138v]
+Theu the most souney endles …
+
+
+[next chapter page 161v]
+Then the most so
+
+
+[interesting marginalia top of p 178 v -- testing out the ink?]
+
+
+[ends on page 181 r, with pencil grid lines beneath, and pencil grid lines on 181 v]
+
+
+[a few blank pages behind it, through 187]
+
+
+
+
+
+
+
+
+NOTES
+
+
+This paper explores Catherine of Siena’s Dialogo as adapted into English as The Orcherd of Syon, currently in three extant manuscripts from the late 15th century, and as an early printed book done in 1519 by Wynkyn de Worde. Although Catherine’s Italian Dialogo was written for a general audience, the text was translated into English with the intended readership of the nuns of the Bridgettine Syon Abbey. Because the English translation utilized Raymond of Capua’s Latin translation of the text, the use of Latin as an intermediary language will be considered, as well as the gendered implications of a male rewriting the words of the female author for female readers. With an emphasis on the connections between Italian and English reception, as well as how expressions of spirituality were translated from the continent to England, this paper concludes with an examination of Catherine’s construction as a teacher of religious women.
+
+
+        As this chapter will examine Catherine’s legacy within historical themes, in both Pre-Protestant and Post-Protestant England, I will divide it into two parts. The first section will analyze the Middle English translation of the Dialogo into the Orcherd of Syon for the cloistered Bridgettine Syon Abbey, and consider the text in relation to the history of the book and the gendered expectations of religious women in England. Secondly, I will analyze how the text of Stefano of Siena’s letter addressed to a Dominican priest represents Catherine as a maternal figure to Carthusian monks in England and the Sheen Charterhouse, and why this is of significance in terms of religious community-building. Lastly, this chapter will explore Catherine as a mystical literary figure in contrast to the mystical literary production of English religious women Margery Kempe and Julian of Norwich.
+        The second section of this chapter will speak to the changing religious landscape in England as it shifts to Protestantism. The major text of this section is John Fenn’s 1609 translation of the Life of Catherine for English recusants, in contrast with both Raymond’s original version and Wynken de Worde’s 1492 English edition. Here, this chapter will investigate the cultural climate and how that influences the construction and reception of a literary Italian saint.
+
+
+Women’s engagement with Catherine’s writing can be a little more difficult to analyze than men’s engagement with her writing, as we have written hagiographies on Catherine that discuss Catherine’s literary activity (Caffarini in particular is committed to Catherine’s textual production). There is suggestion that women did engage with her writing by the existence of more than one letter to the same woman, and the notion that Catherine did good works with those in her famiglia. In England, we have records of women bequeathing books containing Catherine’s writing to other women (in some cases from religious orders to family members outside orders) — nuns and devout gentlewomen being the most likely to be in possession of — or with access to — Catherine’s works. The English text of the Dialogue was adapted with a cloistered female readership in mind, as the translator’s introduction refocuses the text as a walled garden alluding to the cell of self-knowledge. In this way, Catherine’s many references to the vita activa are rendered allegorical. Within the canon of contemporary women writers, we see reference to Catherine in Margery Kempe’s Book, and we often see her listed in the catalogues of famous and virtuous women listed and profiled in proto-feminist texts like Marie de Gournay’s The Equality of Men and Women. Though she is considerably later, Lucrezia Marinella’s engagement with Catherine’s texts are the most interesting for me, with two sonnets and a heroic hagiography showing a literary continuity between the two women.
+
+
+
+
+        Whether mysticism or her good works are more important in terms of her reception — throughout the Renaissance and by scholars and the Church today — is a more complicated consideration. Suzanne Noffke refers to Catherine as a “mystic activist” and I am inclined to agree that this is a more apt descriptor than “social mystic.” If Catherine had remained in her father’s house as a recluse, as she did in her earlier spiritual years, we would not have Catherine as a Church Doctor today, but it is exactly this interiority that is emphasized in the Middle English texts. Still, an Englishwoman like Margery Kempe, though she would only have had access to the English translation of the Dialogo, was well aware of Catherine’s concern with worldly affairs, and her and other active continental women seemed to influence Margery’s pilgrimages and public spiritual activity. The Renaissance reception in general does seem to be hinged on the dual-nature of Catherine’s spiritual mission — had Catherine been a closed-off mystic she would not have received the attention that she did and would not be considered so remarkable, especially today when scholars are well aware of the hurdles Catherine faced compared to her contemporaries.
+ 
+Brown, Jennifer N. 
+“From the Charterhouse to the Printing House: Catherine of Siena in Medieval England,” 2013
+
+
+* Considers Catherine’s texts in England from the late 14th to early 17th c
+* 3 Middle English Catherine texts
+   * The Orcherd of Syon
+      * Translated and adapted from Italian for the nuns of Syon
+      * Catherine’s visions were probably never intended for a lay audience
+      * 1519 printing
+      * Designed for nuns and maybe an elite readership connected to Syon
+      * de Worde had access to manuscript versions of this text that do not survive, as he includes the prologue
+      * Four times removed from its original
+         * Printed edition of a translation (Middle English) of a translation (Latin) of a dictated text (Italian)
+      * Widest dissemination, and the most studied of Catherine’s English tradition
+      * Catherine’s Dialogue had been structured by her scribes, the Middle English translator more or less adheres to this order, but prefaces the translation with a lengthy introduction about how the book should be read and for whom it is intended
+         * The translator must have been witness to much gardening due to his knowledge (p. 34)
+      * Meditative, mystical text that resonates with Bridget’s own revelations
+      * Margery Kempe may have known the text -- visited Syon Abbey
+      * Translator has adapted C’s understanding of both service and prayer to the cloistered life of the Syon nuns
+   * Raymond of Capua’s Vita / Lyf [i]
+      * Translator’s prologue is familiar and addresses a specific audience
+      * The text is edited so that it does not surpass the reader’s understanding but rather speaks to those things that longeth only to one’s learning
+      * Circulated outside of the convent and charterhouse
+      * Puts C forth as an exemplary model of female devotion and sanctity
+      * Translator does not maintain the first person singular but will call the “I” as “Raymond” -- this is unlike many translations of vitae and other devotional texts of the same period
+      * Probably most suited for a lay audience
+
+
+The Medieval Mystical Tradition in England: Exeter Symposium VII, 2004
+
+
+* C. Annette Grisé sees the early appearance in print of original and translated mystical writings as regularly simplifying their originals; she notes a "shift towards a more didactic focus" and a favoring of shorter works "more suitable for a general devout audience" (p. 83). Mystical writing by holy women is generally played down in favor of "lives, extracts and prayers" offering holy examples to their readers. Grisé notes the probable importance of Syon as suppliers of religious material to the printers. Two full-length works commissioned by Syon, The Orcherde of Syon and The Myroure of Oure Ladye, may appear to buck the prevailing trend of short didactic works, but the contrast is, Grisé insists, more apparent than real: in particular, the readership of the Myroure was probably confined to professed religious, though since it provides a complete translation of the Birgittine Office it might just about be available for use by pious layfolk (cf. p. 88 n. 24) as a devotional exercise. 
+* David Griffith shows us a different form of dilution, one partly explained by the form chosen for the material, panel painting?images of Sts Catherine of Siena, Birgitta of Sweden, and Elizabeth of Hungary?in parish churches in East Anglia and Devon. Griffith refers these paintings rightly to iconographie developments in manuscripts and early printed books, though, as he notes, the figures may owe as much to their new context, the saints depicted at the base of a rood screen, as they do to any manuscript sources. 
+
+
+* 
+
+Prophets Abroad: The Reception of Continental Holy Women in Late-Medieval England
+Edited by Rosalynn Voaden, 1996
+
+
+“Ecstatic Reading and Missionary Mysticism: The Orcherd of Syon” 
+Denise L. Despres
+
+
+* Integration between contemplative “cell” of self-knowledge with active life
+   * Missionary mysticism
+   * Mysticism of Apostolate
+* Like St. Francis
+   * Stigmata
+* Troubling sanctity of these female visionaries and prophets who led a mixed life
+* C’s Dialogue insists that spiritual comfort derived from contemplation and visions, and even strict adherence to prayers, are worthless unless the devout soul transforms this comfort of self into active service of her neighbors
+   * C took on a priestly role, best illustrated in her moving account of the execution of Niccolo Tuldo
+* In C’s discussion of visions, definition of charity → required to emerge from contemplation at the very moments when charity required active participation in the world
+   * Executions
+   * Burials
+   * Sick-bed
+   * Homes of the poor & desperate
+* Ardor for Christ through service
+* Christ’s instructions to C on ghostly visions & spiritual delectation are explicit:
+   * Without the trial of charity, one cannot know whether or not ghostly visions are divine or diabolical
+   * It is incumbent upon the visionary to tell others of Christ in an apostolic fashion
+      * Need not be instruction (thus a usurpation of priestly privilege) but may be through the active life of charity
+   * Christ’s instructions made practical sense in an Italian context
+      * 1200-1540: era of the Italian saint, specifically the northern Italian urban saint
+      * Both local and papal authorities found mendicant devotion tolerable and useful, particularly in the fight against heresy in women
+      * C’s particular sanctity, supernatural power, charitable activity, temporal power, evangelical activity → exemplification of Italian sanctity
+* English sanctity was practically polar in many respects to Italian sanctity, particularly in the 15th c.
+   * Martyrdom == chief criterion for English sanctity from the early Middle Ages through the Reformation
+      * Thomas More, John Fisher, Thomas Becket, Edward the Confessor
+      * Mendicant-influenced piety of the 14th c gave way among the literate to the extension of monastic devotions privileging the contemplative life 
+* Two central issues pertinent to the translation of C’s Dialogue into English religious culture (p. 144):
+   * (1) the fact that her visionary authority and apostolic spirituality confront priestly prerogatives, a deeply sensitive issue given the Lollard movement of the 14th & 15th c.s
+   * (2) the fact that her spirituality, which elicited fervent active discipleship & imitation in Italy, would be foreign to and problematic for English imitation, given England’s 15th c religious traditions
+* C’s Dialogue was ecstatically dictated in a particular cultural context that was not duplicated when the work was translated for or received by the nuns of Syon and other wealthy patrons
+* Point of the essay:
+   * Consider the influence and reception of The Orcherd of Syon from the few details known about its translation, transmission, manuscript ownership & Carthusian/Brigittine religious context
+   * Real concern: purpose of reading mystical texts, whether or not reading could produce an imitative mysticism -- in C’s case requiring apostolic action
+   * Hopes to show how the cultural and religious contexts of reception can actually limit or subvert the influence of a particular strain of mysticism, for C’s brand of mystical activism, shared by Margery Kempe & Elizabeth Barton, was transformed / defused for a spiritual “elite” beyond suspicion of heresy in 15th-c England
+      * Women outside of this elite inevitably suffered persecution when they dared to write about or narrate their experiences
+* C’s Il Dialogo was transcribed primarily during the autumn of 1378
+   * Two earliest manuscripts translated into Middle English date from first half of the 15th c
+      * BL MS Harley 3432
+         * Incipit addressed to “Religyuos moder & deuoute sustren, clepid & chosen bisily to laboure at the hous of Syon” by an anonymous cleric, most likely Carthusian, who names his assistant ‘Dane (Dom) James’
+      * Cambridge, St John’s College MS 75
+   * Third from the second half of the 15th c
+      * NYPL MS Morgan M 162 
+   * Wynkyn de Worde edition -- 1519
+      * Produced for well-to-do lay patrons
+   * The Orcherd was originally received in England by the Brigittines
+      * Necessarily adapted for women in an enclosed religious life
+      * The translator recognized this, provides an appropriate meditative context through “allegorization” which indeed reinterprets and compromises,to some degree, Catherine’s apostolic mysticism 
+
+
+* Catherine notes the duty of religious to say the Hours and exercise both vocal and mental prayer, and defines a third kind of “common” prayer
+   * An active laboring in the Vineyards of Christ (that is, her apostolic service and political intervention), resultant from contemplative life
+* Orcherd translator, however, bound by another ideal of service
+   * Prologue: incorporates C’s imagery of the Vineyard of the soul and of Holy  Church, but transforms this allegory into a distinctly monastic image of an enclosed garden
+   * Fruit and herbs are doctrine upon which to chew or meditate, thereby enriching spiritual labor
+      * As opposed to the tilling of one’s neighbor’s fields described by C in her exposition of the Vineyard
+   * His instructions put the text firmly in a mnemonic tradition of monastic readin (lectio) and composition
+   * “Ghostly orchard” and “ghostly learning”
+
+
+* Importance of books and reading at Syon has been amply demonstrated
+* Meditative reading and rumination often resulted in composition
+   * Collacion -- meditative period of reading that took place before Compline on Sundays, gathering together the scatterings of the mind
+   * No  nun of Syon produced visionary, devotional or speculative responses
+      * Surprising -- highly educated women well versed in hermeneutics of monastic reading and writing
+      * There is a conspicuous absence of evidence of manuscript production in the great women’s religious houses in England
+         * Syon
+         * Barking
+         * Dartford
+         * Shaftsbury
+         * Denny
+      * No record of mystical or paramystical activity at Syon or any other women’s house with access to the mystical writings of roughly contemporary Continental women writers
+         * See Nicholas Watson “The Composition of Julian of Norwich’s Revelation of Love”
+
+
+* Carthusians largely responsible for transmitting Continental mysticism to a discrete section of the lay community
+* Lollardy offered spiritual independence and self-direction to members of the laity
+* Carthusians introduced same kind of privilege normally associated with the contemplative life to a spiritual aristocracy
+   * Careful in situating the vernacular texts against Latin works
+   * Sensitive to the authorized spiritual needs of their audiences
+   * Took care to adapt or modify texts for devotional purposes
+
+
+* Exercise caution when considering Margaret Deanesly’s claim that “The Life of St. Catherine of Siena” (sometimes confused with The Dialogue) was among the most popular devotional works bequeathed in the 14th and 15th c. (“Vernacular Books in England in the 14th and 15th Cs) MLA Review 15, 1920
+   * Undoubtedly -- increased circulation of mystical works like The Dialogue in the 15th c thanks in part to Carthusian influence
+   * BUT complex networks of circulation
+      * Families with members in religious houses
+      * Not indicative of widespread influence
+   * Carthusian Patrons with religious devotions in part imitation of Continental ecstatic women including C
+      * Cecily, Duchess of York, mother of Edward IV
+      * Alianore Roos
+      * Elizabeth Sywardby
+   * Though imitatio may have included chastity, spiritual tears, contemplative prayer (that is, private practice), did not typically include missionary or even visionary imitatio
+   * Reading instead regulated and extended private prayer
+      * Did not transform prayer into action, whether apostolic or visionary
+   * Gatherings of gentlewomen for reading and prayer in imitation of religious communal life (149)
+      * Textual communities
+         * See Brian Stock The Implications of Literacy, 1982, pp. 88-92
+      * Cecily of York, for example, instructed that she be read writings of St Bridget, Mecthild of Hackeborn or C of S during dinner
+         * This would form the conversation later during supper with those present
+            * Felicity Riddy, “Women Talking about the Things of God” 1993, ed. Meale
+      * Women therefore adhered much to the formulation of reading and devotion outlined in the Prologue to The Orcherd of Syon
+   * Nuns and devout gentlewomen undoubtedly inhabited the same closely supervised textual communities and their books circulated accordingly 
+      * Dame Mald Wade, prioress of Swyne, gave religious anthology incl writings of C to dame Joan Hyltoft prior to 1482
+      * Lady Margaret Beaufort willed to granddaughter Brigitte the life of C of S
+      * Sister Elizabeth Stryckland, nun at Syon and original owner of one of three Orcherd copies, died in 1540, book became property of Richard Assheton, executor of her will, who gave the book to his wife -- the book then became the possession of Katherine Sacheverell
+   * Visual evidence of Syon’s sponsoring of C
+      * Painted screen at Horsham St Faith’s in Norfolk (1528) - St Bridget and St Catherine
+      * Cambridge Fitzwilliam MS 48, an Hours of the Virgin called the Carew-Poyntz Hours, folio 85v, depicted enclosed in contemplation (150-1)
+         * Books that had female patrons that did retreats at Syon?
+      * Wynkyn de Worde’s volume has C alone in one instance and with community of sisters in frontispiece and endpiece
+* Improbability of imitative “ecstatic” reading among the owners of the vita or Dialogue in 15th c England, when compared to the kind of imitation that certainly took place in the visionary communities we know of on the Continent in the 13th and 14th centuries
+* English mystics of the 14th and 15th century England are primarily problematic figures who negotiate or challenge the strictures of mystical or visionary activity in a religious climate suspicious of religious anomaly or self-promotion
+   * Richard Rolle
+   * Julian of Norwich
+      * Most credibility due to her isolation and deliberate countering of any suspicion of heresy that might arise through incorporated strategies in Revelation of Love
+   * Margery Kempe
+   * maybe Langland
+
+
+* Extreme penitence -- fasting, physical discipline & keeping vigil -- was another component of female sanctity 
+   * C began these practices after her first vision of Christ at age of six
+      * She was unusual in making such rigorous penitence a communal affair
+         * By the age of 7, according to Raymond, she gathered other girls of her age “to discipline themselves together with her” and pray
+         * Letters to laywomen arguing that Christ’s blood and body were the only really nourishing food
+* C’s Dialogue does not include traditionally English hierarchical distinctions evident in Middle English contemplative treatises
+   * Distinctly inclusive taxonomy -- to a general audience
+      * Vocal / mental prayer
+      * Holy tears
+      * Ability to discern real from false visions
+   * Love can be perfect or imperfect
+   * Souls can be worldly or unworldly, ignorant or self-knowing
+* C, like other women visionaries, is not above criticizing the clergy, but her condemnation of the in her discussion of mystical union is centered upon their pride as they mistakenly believe that they alone merit illumination
+   * She does not privileged those in order for spiritual distinctions (though she has great reverence for the priestly office as is evidenced in her writings)
+* Middle English translator felt uncomfortable w bold recognition of mystical illumination as well as C’s invitation to psychic and psychosomatic religious experience
+   * Decision to allegorize her colloquies & thus restructure them according to the divine hours is problematic
+      * Shift in ordinatio or a reformulation of the rubric is essentially a movement away from if not the original mystical utterance, then at least Raymond’s conceptualization six treatises, thus an editorial move
+   * Originally, C’s treatise on “Tears” had its own place in the colloquies
+      * Middle English -- appended it to the fourth chapter on “Prayer”
+         * Potentially diminishing the importance of tears as a type of holy behavior
+         * Placing it as the fifth chapter within “Prayer” section, the translator places it logically behind the sections on false visions, deceitful spiritual comfort, and wicked spirits. 
+         * Tears become an essentially private form of prayer according to this reformulation
+   * Though the translation is largely faithful, such editorial decisions need to be scrutinized in light of recent research on reception and transmission as literary criticism
+* Modifying the text was probably not considered to be tampering with the text at all
+   * The translator here does not seem to see a discrepancy btwn C’s injunctions to an active life of charity & his own injunction to serve Our Lady only to read…
+   * Even when a text convincingly achieves the univocality of a mystical utterance, w speaker voicing God’s will, translators do not necessarily preserves this “sacred” coherence
+      * Adapting these lengthy & often repetitious texts as doctrinal works rather than mystical utterance
+         * Compilers felt free to edit, omit, select
+         * A revelation could be removed from its context w/o difficulty
+   * The translator’s aim is not to encourage mystical experience through dramatic reading, but to provide nuns w small portions of doctrinal food for contemplation and meditation
+   * C’s effusive, repetitious, occasionally circular colloquies on the relationship btwn visionary activity and charitable action become cautionary in the English, as opposed to issues of central importance and anxiety 
+* Translator in manuscript culture considered needs of his audience, or dictated those needs if his office made him aware of the dangers of unsupervised mystical reading
+   * Devotional paternalism, acute in an England experiencing heretical dissension
+   * Caxton ignored the vernacular writings of English mystics as risky propositions
+   * Both Caxton and Wynkyn de Worde responded to the demands of powerful patrons who did develop a taste for mystical works
+   * Excerptor of Margery’s Book, printed by de Worde in 1501, exhibits editorial freedom that strips away the mystical, radical, physical and public aspects of Kempe’s visions
+      * Kempe’s voice is diminished
+      * Instructional nature of Christ’s colloquies are heightened
+      * Implication that Kempe wants martyrdom
+      * Nontheatrical form of spirituality -- private, meditative, self-contained, reclusive
+   * Conservative nature of English spirituality
+      * Good works are not the theatrical imitatio of Italian mendicant spirituality
+         * Generous patronage of religious orders
+         * Financing of chapels (Margaret, Lady Hungerford, Anne Harling)
+         * Service to the parish and community through institutionalized channels
+* Margery Kempe
+   * Influenced by an earlier Francisca meditative tradition that predisposed her to autobiography
+   * Recognized the spiritual dynamism of apostolic living 
+   * Understood the relationship between visions and charity
+   * Understood the necessity of integrating the active life and the contemplative
+   * Writings of and about Continental women and practice of visual meditation no doubt predisposed her toward this synthesis
+      * Lack of spiritual models in her daily experience
+   * Her Book is noteworthy in that it attempts to reconcile mendicant piety with the new monastic lay piety of 15th c England
+      * Failure of reconciliation is not surprising
+      * Her contemporaries had a fear of religious experimentation, which is well documented throughout the book
+      * See David Wallace, “Mystics and Followers in Siena and East Anglia” 1984 ed Marion Glasscoe
+   * Her experience in Italy
+      * False friars at home
+      * Friar Minor traveled with her to Italy, but an Englishman, gave full and admiring approval
+      * Margaret the Florentine
+         * Seeks Margery’s prayers
+         * Viewed poverty as a sign of sanctity
+         * Insisted upon feeding Margery on Sundays and serving her directly
+   * In England, she was considered the religious fringe
+* Elizabeth Barton
+   * 1525, Easter time, servant girl, suffered from acute illness, produced visions, prophetic, confided them too quickly & imprudently (unlike Julian or Margery)
+   * Dr Bocking, her confessor, is blamed for exposing her in daily doses to the Revelations  of St Bridget and to C of Siena’s writings
+      * Dangerous to the ignorant, may mistakenly imitate or imagine these phenomena
+      * Dr Bocking seems to be similar to Raymond after all
+* C’s inedia is marveled at by Raymond
+   * Penance is more difficult for the English
+      * Elizabeth Barton’s urging for fasting is seen as fanatical excess rather than devotion
+      * Margery has difficulty with fasting, hairshirts, etc.
+   * English devotionalism was impervious to dramatic elements of Continental women’s piety
+   * Consider also Marie d’Oignies, whose credibility depended upon charitable works as a response to visions
+* The Orcherd translator wished to moderate the use of the visionary work (so it wasn’t taken as literally as Elizabeth Barton took it)
+   * Prologue recasts the work for moral and doctrinal instruction
+   * Advocates ghostly comfort
+   * Subtly discourages pious fantasizing or recreation of ecstatic experience
+* English reception -- much work to be done
+   * Moved Margery (?) to embrace an apostlic life and record visionary experience
+   * Provided others, perhaps wiser women, with a model of contemplative, albeit silent, virtue 
+
+
+
+
+
+
 ________________
-[1] Chapters 98-101.
-[2] “Wretch that I am, I regret that I have never followed this true teaching. I have, in fact, done the opposite. And this, I believe, is why I’ve so often fallen into unhappiness and into passing judgment on my neighbors.” (Trans. Noffke)
-[3] “The soil is true humility … and the place you’ll find it is the enclosed garden of self-knowledge. I say it is enclosed because if you dwell in the cell of self-knowledge, you are enclosed. You are not wide open, because you are not dissipated in worldly delights. … You don’t let confusion or spiritual vexation dissipate your heart … No, you lock yourself up, in the company of trust and the light of most holy faith…” (Trans. Noffke)
-[4] My translation.
-[5] See Obeying the Truth: Discretion in the Spiritual Writings of Saint Catherine of Siena, 78-81.
-[6] “In that case, in fact, not only should you give up fasting, but you should eat meat — and if once a day isn’t enough, have it four times. If you can’t stand up, stay in bed. If you can’t kneel, remain sitting — or lying down if necessary.” (Trans. Noffke)
-[7] “To all the members of the body, that they be modest and temperate: let the eye not look where it should not, but hold before itself earth, and heaven; let the tongue flee idle and vain speech, and be disciplined to announce the word [she uses “parola” and not the usual “il Verbo”, more related to “speech” / “parlare”] of God for the salvation of the neighbor, and to confess its sins: let the ear flee agreeable, flattering, dissolute words, and any words of detraction that might be said to it; and let it hearken for the word of God, and the need of the neighbor, willingly listening to his necessity. So let the hand be swift in touching and bringing realization, and the feet in going: to all, discretion gives a rule. And that the perverse law of the flesh that fights against the spirit may not throw these tools into disorder, it imposes a rule upon the body, mortifying it with vigil, fast, and the other exercises which are all meant to bridle our body.” (Trans. Noffke)
-[8] “you cannot have this purity of mind and body if you are having many conversations with other people and setting your love and desire on them or on created things apart from the will of God.” (Trans. mine)
-[9] “And you will rejoice with those who are glad because they are true servants of Jesus Christ crucified, always delighting in their conversation.” (Trans. Tylus)
-[10] “I summon you and me to do what in past time I confess not to have done with that perfection which I should. It has not happened to you as to me, to have been and to be very faulty, or over-lax and easy-going in my life, instead of strict, through my fault; but you, as one who has wished to subdue the youthfulness of your body that it not be a rebel to the soul, have chosen a life so extremely strict that apparently it is out of all bounds of discretion.” (Trans. mine)
-[11] “...he wrote it [the eternal Truth] upon his own body in letters so large that no one, no matter how dll-witted, has an excuse for not reading it. And he wrote it not with ink, but with his own blood. You can see clearly the illuminated initials of the book and how large they are.” (Trans. Noffke)
-[12] “Written on his body, and he is made into a book.” (Trans. mine)
-[13] “Let’s not sleep anymore, let us wake from the slumber of negligence, groaning with humble and continual prayers, over the mystical body of the holy Church, and over the Vicar of Christ. Do not cease to pray for him, that Christ may give him light and fortitude to resist the strokes of incarnate demons, lovers of themselves, who want to contaminate our Faith.” (Trans. mine)
-[14] “I long to see you clothed in the strong garment of blazing charity so that the blows rained on you by wicked, worldly, [men of the world who love themselves], will not be able to hurt you.” (Trans. Noffke)
-[15] “I want you then, with great deliberateness, always to associate with God’s servants and avoid the others like fire. Never rest your confidence in yourselves, saying ‘I’m strong, and I’m not afraid of these people making me fall!’ … Instead, with sincere humility let’s recognize that unless God were holding us back we would be devils incarnate.” (Trans. Noffke)
-[16] T52, T210, T308
-[17] A form of the verb “caggiare” as in “cadere.”
-[18] “Bathe yourself in the blood, so that no scruples will ever pervade (fall) into your mind, neither subservient fear. But let’s hide in the cavern of the ribs of the crucified Christ, where you have found the abundance of blood. Through other paths we will enter the shadows, and we will be lovers of ourselves.  Considering that there was no other way, I said that I desired to see you soaked and drowned in the blood of the crucified Christ: and this is what I want you to do. I say nothing else to you. Persist in the holy and sweet enjoyment of God: have hunger for his honor and desire. Jesus (who is) sweet, Jesus (who is) love.” (Trans. Dana Stewart)
-[19] “And as soon as she [the soul] has passed through the narrow gate of the Word, immersed in his blood, she comes to me, the sea of peace. For we are joined as one: I the sea with him the gate, because I and my Truth, my only-begotten Son, are one and the same thing.” (Trans. Noffke)
-[20] “Thus gloriously they [the souls] pass, bathed in the blood, hungry for the salvation of souls, all ablaze with charity for their neighbors, coming through the gate of the Word and entering into me.” (Trans. Noffke)
-[21] In the third day, first story of the Decameron, Boccaccio talks of the sexual appetites of nuns. Heloise insinuates homoerotic desire in Letter 6, which she writes to Abelard: “Even if they [the nuns] admit to their table only women to whom they have given hospitality, is there no lurking danger there? Surely nothing is so conducive to a woman’s seduction as woman’s flattery, nor does a woman pass on the foulness of a corrupted mind so readily” (p. 95 of Radice’s translation).
+[1] Siena, Biblioteca comunale degli Intronati T.II.4, early 15th century.
+[2] Madrid, Biblioteca Nacional de España 134 (B120), 14th century.
+[3] Roma, Archivio Generale dell’Ordine dei Predicatori XIV .24, 14th century.
+[4] Grenoble, Bibliothèque Municipale 404 (15th century); Paris, Bibliothèque Nationale de France, n.a.lat. 1250 (15th century); Città del Vaticano, Biblioteca Apostolica Vaticana, Vat. Lat. 939 (15th century).
+[5] Though this may be somewhat the case in the Italian tradition, a number of Catherine’s letters were written by women, and she claims to have written in her own hand as well.
+[a]https://books.google.com/books?id=g1DeCwAAQBAJ&pg=PA218&lpg=PA218&dq=lyf+of+katherine+of+siena+english+translation&source=bl&ots=_OhtL3fRDF&sig=VSYcIwn4vdmeP8J6g1GqZZqbPRk&hl=en&sa=X&ved=0ahUKEwjIz-uygv7RAhWIx4MKHR_yDJUQ6AEIHDAA#v=onepage&q=lyf%20of%20katherine%20of%20siena%20english%20translation&f=false
+[b]to add
+[c]https://books.google.com/books?id=cQDeCwAAQBAJ&pg=PA136&lpg=PA136&dq=manuscript+bodley+131&source=bl&ots=hZ8-ccqQOF&sig=yr_XW7aR1_5NcEw3PNA8jMfMs94&hl=en&sa=X&ved=0ahUKEwiDqqyu9__RAhVH4YMKHe_7AggQ6AEILzAE#v=onepage&q=manuscript%20bodley%20131&f=false
+[d]Add citations to Brown -- charterhouse, printing house
+[e]cite
+[f]cite
+[g]cite
+[h]Put this in order above
+[i]only extant in printed editions, 1492, 1500
