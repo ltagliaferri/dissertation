@@ -10,26 +10,11 @@ Introduction w chapters, then what scholars I am in dialogue w
 Chaucer  The Book of the Duchess, love, knight & noblewomen 14th c
 
 
-Insert theory very well, fluctuating figure, symbol of queer
-
-
-Could say something at the beginning, but perfectly fine w biography
-Example or episode, link that procreates what you want to do w the chapter
-I will do this, 1 2 3
-Short introduction
-Keep conclusion
-2 intro paragraphs, following an example
-Biography could move into the Introduction to the book
-
-
 Defining gender and mysticism through a female figure
 Dacia Marini on Revisitation of Catherine of Siena
 
 
 “Catherine understood union with Crhist not was an erotic fusing with a male figure but as a taking in and taking on — a becoming — of Christ’s flesh itself.  / In fact, Catherine clearly associated Christ’s physicality with the female body, underlying thereby both her capacity for assimilation to Christ and her capacity, like him, for service” - Bynum, Holy Feast, Holy Fast
-
-
-Letter T221, talks about how Christ espoused everyone with foreskin ring
 
 
 Michael Clanchy -- for many medieval writers the act of writing was a speech act rather than an activity undertaken with pen in hand.
@@ -66,8 +51,7 @@ Chapter breakdown here
 
 
 Chapter I, “The Figure of the Mystic” discusses the theoretical groundings that underpin the rest of this work. Situating the mystic as a liminal figure, I argue that the space they inhabit is queer in multiple ways: between male and female, virgin and sexual, human and godlike, earthly and divine. This chapter complicates the history of mystics (both male and female) as brides and soldiers of Christ at once, and notes the fluid gender history of the construction of Christ himself, who is a nourishing and maternal figure in many ways throughout the Middle Ages and Renaissance periods. Existing in this separate and complicated space, mystical, saintly, religious, and sacred figures like Catherine are able to cross boundaries that others cannot, using their fluid and undefined nature to accomplish their purpose in thie world and the next.
-
-
+Chapter II, “‘O amore ineffabile’: The Poetics of Mysticism,” considers that the exchange that took place between poetic and mystical writing is not merely one-directional. Dante, Petrarch, and Italian poets of the Sicilian, Tuscan, and Dolce Stil Novo schools of poetry would allow erotic language to mingle with spiritual language, and this is likely due to the literary context offered by mysticism. This chapter investigates the subjectivity of the lover as related to the beloved, how the beloved can influence the lover to virtue, and how the earthly or divine court impacts the dynamics of two individuals. By analyzing literature both through a distant and computational manner, as well as through close reading, this chapter posits that both erotic love and spiritual love are ineffable and can intersect, and that both traditional love poets of lyrics and epics and mystical writers from the Beguines through Catherine (at least) are searching for ways to describe the indescribable through similar literary approaches. 
 Chapter III, “The Corpus of Letters and Catherine’s Network,” discusses the textual state and history of Catherine’s 386 letters, and the contemporary literary network she formed around herself through the transmission of her writing. This chapter considers Catherine’s acts of collaboration and community-building as the means through which she was able to gain spiritual legitimization as well as political power despite her status as a woman and tertiary nun. As a mystical figure moving about in the world, Catherine’s ability to create alliances and a strong network through her innovative use of the emerging vernacular language ensured that she would not be considered a heretic. Additionally, the care that she put into developing strong relationships with religious and intellectual figures established her afterlife through the transmission of her texts over time and place. Leveraging data visualization and network analysis alongside historical and literary inquiry, this chapter constructs Catherine as an individual who is central within a network of many important figures of her time.
 
 
